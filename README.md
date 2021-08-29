@@ -68,7 +68,7 @@
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
 
 
-## Social
+## Social 🧑‍🤝‍🧑
 
 
 <img  align="right" src="https://github-readme-twitter.gazf.vercel.app/api?id=sun0225SUN&layout=wide">
