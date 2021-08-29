@@ -77,9 +77,9 @@
 <!-- 最近动态 -->
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
 
-
 <div align="center"><img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"></div>
 
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /></div>
 
 # Social 🧑‍🤝‍🧑
 
