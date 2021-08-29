@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462" style="box-shadow:none !important">
+
 <!--
 **sun0225SUN/sun0225SUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
