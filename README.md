@@ -1,11 +1,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);%3E%20node%20index;Hello%2C%20World!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
 
-# Hello World 🙋
+## Hello 🙋
 
 &emsp;&emsp; 大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱IT互联网行业，一枚学渣正在努力蜕变。。。
 
@@ -29,8 +29,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 
-
-✍️ 我喜欢使用的工具:
+✍️ 我常用的工具:
 
 &emsp;&emsp; 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
@@ -39,9 +38,7 @@
 ![Docker](https://img.shields.io/badge/-Chrome-black?style=flat-square&logo=chrome)
 
 
-🎓 动态统计:
-
-<!-- GitHub主页访客统计数据 -->
+## Action 🏃
 
 &emsp;&emsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
 
