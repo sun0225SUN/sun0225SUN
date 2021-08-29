@@ -77,6 +77,14 @@
 <!-- 最近动态 -->
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
 
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png">
+  </a>
+</p>
+
 <div align="center"><img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"></div>
 
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /></div>
