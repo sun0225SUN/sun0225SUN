@@ -19,7 +19,7 @@
   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN"></div>
   
-<div align="center"><img src="https://raw.githubusercontent.com/sun0225SUN/sun0225SUN/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/main/assets/github-contribution-grid-snake.svg" ></div>
 
 
 # Hello 🙋
