@@ -91,13 +91,11 @@
   
 <div align="center"><img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"></div>
  
-
+<div align="center">
 <!--START_SECTION:waka-->
-```text
-HTML   11 mins         █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
-
+</div>
+  
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /></div></div>
 
 
