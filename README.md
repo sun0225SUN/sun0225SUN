@@ -75,11 +75,6 @@
 <span>&emsp;&emsp;</span>
 
 <!--START_SECTION:waka-->
-```text
-Week: 27 September, 2021 - 03 October, 2021
-
-HTML   11 mins         █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
 
 
