@@ -76,9 +76,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2021 - 03 October, 2021
+Week: 28 September, 2021 - 04 October, 2021
 
-HTML   11 mins         █████████████████████████   100.00 % 
+Python     24 mins         ██████████████▒░░░░░░░░░░   57.31 % 
+HTML       16 mins         █████████▓░░░░░░░░░░░░░░░   38.47 % 
+Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 <!--END_SECTION:waka-->
 
