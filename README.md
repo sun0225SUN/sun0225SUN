@@ -29,6 +29,18 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始的太晚了，但一切总不算太迟。春华秋实，努力便会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
+<!--START_SECTION:waka-->
+```text
+Week: 01 October, 2021 - 07 October, 2021
+
+Python   4 hrs 33 mins   ██████████████████████▒░░   89.18 % 
+HTML     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+CSV      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+YAML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+```
+<!--END_SECTION:waka-->
+
 💪 目前正在学习: 
 
 &emsp;&emsp;
@@ -74,17 +86,7 @@
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-<!--START_SECTION:waka-->
-```text
-Week: 01 October, 2021 - 07 October, 2021
 
-Python   4 hrs 33 mins   ██████████████████████▒░░   89.18 % 
-HTML     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-CSV      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-YAML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-```
-<!--END_SECTION:waka-->
 
 <!-- 最近动态 -->
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
