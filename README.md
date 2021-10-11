@@ -1,14 +1,16 @@
+<!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
 
-
+<!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"></div>
 
 <br>
 
+<!-- 个人资料卡片 -->
 <div align="center">
   <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
@@ -19,6 +21,7 @@
   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN"></div>
 
+<!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" ></div>
 
 
@@ -69,7 +72,6 @@
 
 
 # Action 🏃
-
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -125,10 +127,7 @@ Windows                  7 hrs 34 mins       ███████████�
 <!-- 最近动态 -->
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
 
-
-<p></p>
-
-
+<!-- 连续提交代码天数 -->
 <p align="center">
   <a>
     <img height="150" width="175" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png">
@@ -136,32 +135,34 @@ Windows                  7 hrs 34 mins       ███████████�
     <img height="150" width="175" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png">
   </a>
 </p>
-  
-<div align="center"><img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"></div>  
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox" /></div>
-<p></p>
 
+<!-- GitHub数据统计 -->
+<div align="center"><img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"></div>  
+
+<br>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox" /></div>
+
+<br>
+
+<!-- GitHub数据统计 -->
 <div align="center">
-<!-- 统计 -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 
 # Social 🧑‍🤝‍🧑
 
-
-<img  align="right" src="https://github-readme-twitter.gazf.vercel.app/api?id=sun0225SUN&layout=wide">
-<img  align="left" src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
-
-
-
-
+<!-- BiliBili和CSDN数据 -->
+<div align="center">
+<img src="https://stats.justsong.cn/api/bilibili/?id=448488855">
+<img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
+</div>
 
 
-
-
-
-
+<!-- Twitter最新推文 -->
+<!-- <img src="https://github-readme-twitter.gazf.vercel.app/api?id=sun0225SUN&layout=wide"> -->
 
 <!--
 **sun0225SUN/sun0225SUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
