@@ -71,6 +71,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
+<!-- <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<br/> -->
+
 # Action 🏃
 
 <!--START_SECTION:waka-->
@@ -123,6 +126,8 @@ Windows                  9 hrs 57 mins       ███████████�
 <!--END_SECTION:waka-->
 
 
+
+
 <!-- 最近动态 -->
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
 
@@ -145,10 +150,14 @@ Windows                  9 hrs 57 mins       ███████████�
 
 <br>
 
+
 <!-- GitHub数据统计 -->
 <div align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
+
+
+<!-- <div align="center"><img width="500" src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/23fe0771-08c8-431c-aaf9-f703c9ecf98a.svg"></div> -->
 
 
 # Social 🧑‍🤝‍🧑
@@ -162,18 +171,3 @@ Windows                  9 hrs 57 mins       ███████████�
 
 <!-- Twitter最新推文 -->
 <!-- <img src="https://github-readme-twitter.gazf.vercel.app/api?id=sun0225SUN&layout=wide"> -->
-
-<!--
-**sun0225SUN/sun0225SUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
