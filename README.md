@@ -141,7 +141,7 @@ Windows                  9 hrs 57 mins       ███████████�
 <br>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7" /></div>
 
 <br>
 
