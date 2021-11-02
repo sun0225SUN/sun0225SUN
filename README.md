@@ -155,8 +155,7 @@ Windows                  7 hrs 31 mins       ███████████�
 
 <!-- Metrics -->
 <div align="center"><img src="https://github.com/sun0225SUN/sun0225SUN/blob/main/github-metrics.svg" alt="Metrics" width="75%"></div>
-<img src="https://github-readme-twitter.gazf.vercel.app/api?id=sun0225SUN&layout=wide">
-
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"></div>
 
 
 # Social 🧑‍🤝‍🧑
