@@ -139,8 +139,8 @@ Windows                  7 hrs 31 mins       ███████████�
   </a>
 </p>
 
-<!-- GitHub数据统计 -->
-<div align="center"><img src="https://github.com/my-github-user/my-github-user/blob /master/github-metrics.svg" alt="Metrics" width="80%"></div>
+<!-- Metrics -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics.svg" alt="Metrics" width="75%"></div>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7" /></div>
