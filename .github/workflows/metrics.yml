@@ -2,7 +2,8 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: 
+      - cron: "* */12 * * *"
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -30,10 +31,6 @@ jobs:
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_code: yes
-          plugin_code_lines: 12
-          plugin_code_load: 100
-          plugin_code_visibility: public
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_introduction: yes
@@ -50,9 +47,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: .user.website
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
@@ -61,6 +55,3 @@ jobs:
           plugin_projects_limit: 3
           plugin_stars: yes
           plugin_stars_limit: 3
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: .user.twitter
