@@ -34,13 +34,10 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 100
           plugin_code_visibility: public
-          plugin_discussions: yes
-          plugin_followup: yes
-          plugin_followup_sections: repositories
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -51,9 +48,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_from: organization
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
           plugin_people: yes
@@ -62,12 +56,8 @@ jobs:
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_repositories: 100
-          plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 5
           plugin_tweets: yes
           plugin_tweets_limit: 2
-          plugin_tweets_user: sun0225SUN
+          plugin_tweets_user: .user.twitter
