@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  schedule:
-   - cron: '0 12 * * *'
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -34,6 +34,8 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 100
           plugin_code_visibility: public
+          plugin_followup: yes
+          plugin_followup_sections: repositories
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
@@ -49,7 +51,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_url: https://sunguoqi.com
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
@@ -57,7 +60,4 @@ jobs:
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_stars: yes
-          plugin_stars_limit: 5
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: .user.twitter
+          plugin_stars_limit: 3
