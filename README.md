@@ -56,8 +56,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-
-
 🧰 常用的工具:
 
 &emsp;&emsp; 
@@ -70,11 +68,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png"></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png"/></div>
 
 # Action 🏃
 
+<!-- wakatime 统计 -->
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -124,11 +122,10 @@ Windows                  7 hrs 31 mins       ███████████�
  Last Updated on 01/11/2021
 <!--END_SECTION:waka-->
 
-
-
-
-<!-- 最近动态 -->
+<!-- 提交记录折线图 -->
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
+
+
 
 <!-- 连续提交代码天数 -->
 <p align="center">
@@ -139,12 +136,11 @@ Windows                  7 hrs 31 mins       ███████████�
   </a>
 </p>
 
-<!-- Metrics -->
-<div align="center"><img src="https://github.com/sun0225SUN/sun0225SUN/blob/main/github-metrics.svg" alt="Metrics" width="75%"></div>
+<!-- Metrics 基础资料统计 -->
+<div align="center"><img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"></div>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7" /></div>
-
 <br>
 
 <!-- GitHub数据统计 -->
@@ -152,6 +148,10 @@ Windows                  7 hrs 31 mins       ███████████�
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
+# Metrics 🏃
+
+<!-- Metrics -->
+<div align="center"><img src="https://github.com/sun0225SUN/sun0225SUN/blob/main/github-metrics.svg" alt="Metrics" width="75%"></div>
 
 <!-- <div align="center"><img width="500" src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/23fe0771-08c8-431c-aaf9-f703c9ecf98a.svg"></div> -->
 
@@ -164,6 +164,10 @@ Windows                  7 hrs 31 mins       ███████████�
 <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
 </div>
 
+
+
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/></div>
 
 <!-- Twitter最新推文 -->
 <!-- <img src="https://github-readme-twitter.gazf.vercel.app/api?id=sun0225SUN&layout=wide"> -->
