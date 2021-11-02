@@ -72,6 +72,28 @@
 
 # Action 🏃
 
+
+<!-- 连续提交代码天数 -->
+<p align="center">
+  <a>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true"/>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png">
+  </a>
+</p>
+
+<!-- metrics 基础资料 -->
+<div align="center"><img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai" /></div>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7" /></div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
 <!-- wakatime 统计 -->
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -126,32 +148,10 @@ Windows                  7 hrs 31 mins       ███████████�
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
 
 
-
-<!-- 连续提交代码天数 -->
-<p align="center">
-  <a>
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true"/>
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png">
-  </a>
-</p>
-
-<!-- Metrics 基础资料统计 -->
-<div align="center"><img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"></div>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7" /></div>
-<br>
-
-<!-- GitHub数据统计 -->
-<div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
 # Metrics 🏃
 
 <!-- Metrics -->
-<div align="center"><img src="https://github.com/sun0225SUN/sun0225SUN/blob/main/github-metrics.svg" alt="Metrics" width="75%"></div>
+<div align="center"><img src="" alt="Metrics" width="75%"></div>
 
 <!-- <div align="center"><img width="500" src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/23fe0771-08c8-431c-aaf9-f703c9ecf98a.svg"></div> -->
 
