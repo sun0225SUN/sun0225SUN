@@ -52,8 +52,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_people: yes
-          plugin_people_limit: 100
-          plugin_people_size: 100
+          plugin_people_limit: 36
+          plugin_people_size: 36
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_descriptions: yes
