@@ -7,7 +7,6 @@
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"></div>
-
 <br>
 
 <!-- 个人资料卡片 -->
@@ -23,6 +22,8 @@
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" ></div>
+
+
 
 
 # Hello 🙋
@@ -69,6 +70,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png"/></div>
+
+
 
 # Action 🏃
 
@@ -125,7 +128,6 @@ Windows                  7 hrs 31 mins       ███████████�
 <!-- 提交记录折线图 -->
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
 
-
 <!-- 连续提交代码天数 -->
 <p align="center">
   <a>
@@ -148,12 +150,13 @@ Windows                  7 hrs 31 mins       ███████████�
 </div>
 
 
+
 # Metrics 🏃
 
 <!-- Metrics -->
 <div align="center"><img src="https://github.com/sun0225SUN/sun0225SUN/blob/main/github-metrics.svg" alt="Metrics" width="75%"></div>
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=sun0225SUN&layout=wide">
 
-<!-- <div align="center"><img width="500" src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/23fe0771-08c8-431c-aaf9-f703c9ecf98a.svg"></div> -->
 
 
 # Social 🧑‍🤝‍🧑
@@ -164,10 +167,3 @@ Windows                  7 hrs 31 mins       ███████████�
 <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462">
 </div>
 
-
-
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/></div>
-
-<!-- Twitter最新推文 -->
-<!-- <img src="https://github-readme-twitter.gazf.vercel.app/api?id=sun0225SUN&layout=wide"> -->
