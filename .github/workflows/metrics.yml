@@ -18,14 +18,14 @@ jobs:
           # Options
           user: sun0225SUN
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_activity: yes
-          plugin_activity_days: 10
+          plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 3
           plugin_activity_load: 300
@@ -44,19 +44,23 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html,css
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: .user.website
           plugin_people: yes
-          plugin_people_limit: 36
-          plugin_people_size: 36
+          plugin_people_limit: 24
+          plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_projects: yes
-          plugin_projects_descriptions: yes
           plugin_projects_limit: 3
           plugin_stars: yes
           plugin_stars_limit: 3
+          plugin_tweets: yes
+          plugin_tweets_limit: 2
+          plugin_tweets_user: .user.twitter
