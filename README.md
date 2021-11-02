@@ -154,7 +154,7 @@ Windows                  7 hrs 48 mins       ███████████�
 # Metrics 🏃
 
 <!-- Metrics -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics.svg" alt="Metrics" width="75%"></div>
+<div align="center"><img src="https://github.com/sun0225SUN/sun0225SUN/blob/main/github-metrics.svg" alt="Metrics" width="75%"></div>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"></div>
 
 
