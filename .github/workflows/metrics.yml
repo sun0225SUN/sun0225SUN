@@ -60,6 +60,3 @@ jobs:
           plugin_projects_limit: 3
           plugin_stars: yes
           plugin_stars_limit: 3
-          plugin_tweets: yes
-          plugin_tweets_attachments: yes
-          plugin_tweets_limit: 2
