@@ -51,11 +51,9 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_pagespeed: yes
-          plugin_pagespeed_screenshot: yes
           plugin_people: yes
-          plugin_people_limit: 36
-          plugin_people_size: 36
+          plugin_people_limit: 100
+          plugin_people_size: 100
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_descriptions: yes
@@ -65,4 +63,3 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
-          plugin_tweets_user: sun0225SUN
