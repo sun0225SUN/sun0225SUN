@@ -13,10 +13,10 @@ jobs:
     steps:
     
       # 仅显示 base metrics
-      - name: metrics_00
+      - name: base_metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics_00.svg
+          filename: base_metrics.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
@@ -26,10 +26,10 @@ jobs:
           config_timezone: Asia/Shanghai
       
       # 各种插件  plugin metrics
-      - name: metrics_01
+      - name: plugin_metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics_01.svg
+          filename: plugin_metrics.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # base 基础配置项
