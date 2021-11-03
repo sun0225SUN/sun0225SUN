@@ -22,7 +22,7 @@ jobs:
           # Options
           user: sun0225SUN
           template: classic
-          base: "header, activity, community, repositories, metadata"
+          base: "header, activity, community, repositories"
           config_timezone: Asia/Shanghai
       
       # 各种插件  plugin metrics
