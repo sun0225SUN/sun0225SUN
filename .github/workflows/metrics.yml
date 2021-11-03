@@ -11,6 +11,8 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+    
+      # 仅显示 base metrics
       - name: metrics_00
         uses: lowlighter/metrics@latest
         with:
@@ -21,18 +23,21 @@ jobs:
           user: sun0225SUN
           template: classic
           base: "header, activity, community, repositories, metadata"
-          
+          config_timezone: Asia/Shanghai
+      
+      # 各种插件  plugin metrics
       - name: metrics_01
         uses: lowlighter/metrics@latest
         with:
           filename: metrics_01.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # Options
+          # base 基础配置项
           user: sun0225SUN
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
+          # plugin 插件配置项
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
