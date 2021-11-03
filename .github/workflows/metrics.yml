@@ -106,13 +106,6 @@ jobs:
          # 🌟 Recently starred repositories
           plugin_stars: yes
           plugin_stars_limit: 3   # Limit to 4 entries
-          
-          # ⏱️ Website performances 网站性能
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes                            # Print detailed audit metrics (打印详细的审计指标)
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}    # Optional but recommended ( Google's PageSpeed API)
-          plugin_pagespeed_screenshot: yes                          # Display a screenshot of your website (是否显示网页截图)
-          plugin_pagespeed_url: https://www.sunguoqi.com            # Website to audit (站点URL)
          
          # 🎭 Comment reactions (评论反馈)
           plugin_reactions: yes
@@ -122,22 +115,17 @@ jobs:
           plugin_reactions_details: count, percentage               # Display reactions count and percentage
           plugin_reactions_ignored: bot                             # Ignore "bot" user
           
-          # 💕 GitHub Sponsors 捐赠
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, about                     # Display goal and about sections
-    
-      # GitHub Skyline 3D calendar 3D贡献图
-      - name: GitHub Skyline 3D calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: skyline_calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: sun0225SUN
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
+          # 🌇 GitHub Skyline 3D calendar 3D贡献图
           plugin_skyline: yes
           plugin_skyline_year: 2021                                 # Set to 0 to display current year (统计年份)
           plugin_skyline_frames: 30                                 # Use 60 frames (half-loop) (半循环or全循环)
           plugin_skyline_quality: 0.5                               # Set image quality (图片质量) 
           plugin_skyline_compatibility: no                          # Support additional browsers (⚠️ increases file size and reduce optimization)   
+          
+          
+#           # ⏱️ Website performances 网站性能(经常服务器响应错误,所以关闭了!)
+#           plugin_pagespeed: yes
+#           plugin_pagespeed_detailed: yes                            # Print detailed audit metrics (打印详细的审计指标)
+#           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}    # Optional but recommended ( Google's PageSpeed API)
+#           plugin_pagespeed_screenshot: yes                          # Display a screenshot of your website (是否显示网页截图)
+#           plugin_pagespeed_url: https://www.sunguoqi.com            # Website to audit (站点URL)
