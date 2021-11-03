@@ -11,11 +11,10 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: metrics_01
+      - name: metrics_00
         uses: lowlighter/metrics@latest
         with:
-          filename: ./assets/metrics_01.svg
-          committer_message: Update metrics - [Skip GitHub Action]
+          filename: metrics_00.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
@@ -23,11 +22,10 @@ jobs:
           template: classic
           base: "header, activity, community, repositories, metadata"
           
-      - name: metrics_02
+      - name: metrics_01
         uses: lowlighter/metrics@latest
         with:
-          filename: ./assets/metrics_02.svg
-          committer_message: Update metrics - [Skip GitHub Action]
+          filename: metrics_01.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
