@@ -54,4 +54,4 @@ jobs:
           plugin_projects: yes
           plugin_projects_limit: 3
           plugin_stars: yes
-          plugin_stars_limit: 2
+          plugin_stars_limit: 5
