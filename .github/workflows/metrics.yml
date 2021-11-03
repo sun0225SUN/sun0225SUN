@@ -13,76 +13,119 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # base metrics
-#       - name: base_metrics
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: base_metrics.svg
-#           # Your GitHub token
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           # Options
-#           user: sun0225SUN
-#           template: classic
-#           base: "header, activity, community, repositories"
-#           config_timezone: Asia/Shanghai
+      - name: base_metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: base_metrics.svg
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: sun0225SUN
+          template: classic
+          config_timezone: Asia/Shanghai
+          base: "header, activity, community, repositories"
+          plugin_traffic: yes
+          plugin_lines: yes
       
-#       # plugin metrics
-#       - name: plugin_metrics
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: plugin_metrics.svg
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           user: sun0225SUN
-#           template: classic
-#           base: ""
-#           config_timezone: Asia/Shanghai
-#           # Achievements 我的成就
-#           plugin_achievements: yes
-#           plugin_achievements_display: compact
-#           plugin_achievements_secrets: yes
-#           plugin_achievements_threshold: C
-#           # Recent activity 最近活动
-#           plugin_activity: yes
-#           plugin_activity_days: 14
-#           plugin_activity_filter: all
-#           plugin_activity_limit: 3
-#           plugin_activity_load: 300
-#           plugin_activity_visibility: all
-#           #  Follow-up of issues and pull requests
-#           plugin_followup: yes
-#           plugin_followup_sections: repositories
-#           plugin_introduction: yes
-#           plugin_introduction_title: yes
-#           # Isometric commit calendar 日历图
-#           plugin_isocalendar: yes
-#           plugin_isocalendar_duration: full-year
-#           # Most used languages 常用语言统计
-#           plugin_languages: yes
-#           plugin_languages_analysis_timeout: 15
-#           plugin_languages_categories: markup, programming
-#           plugin_languages_colors: github
-#           plugin_languages_limit: 8
-#           plugin_languages_recent_categories: markup, programming
-#           plugin_languages_recent_days: 14
-#           plugin_languages_recent_load: 300
-#           plugin_languages_sections: most-used
-#           plugin_languages_threshold: 0%
-#           # followers, following 关注与被关注
-#           plugin_people: yes
-#           plugin_people_limit: 24
-#           plugin_people_size: 28
-#           plugin_people_types: followers, following
-#           # projects 我的工程
-#           plugin_projects: yes
-#           plugin_projects_limit: 3
-#           plugin_stars: yes
-#           plugin_stars_limit: 3
-#           # Website performances 网站性能
-#           plugin_pagespeed: yes
-#           plugin_pagespeed_detailed: yes                            # Print detailed audit metrics (打印详细的审计指标)
-#           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}    # Optional but recommended ( Google's PageSpeed API)
-#           plugin_pagespeed_screenshot: yes                          # Display a screenshot of your website (是否显示网页截图)
-#           plugin_pagespeed_url: https://www.sunguoqi.com            # Website to audit (站点URL)
+      # plugin metrics
+      - name: plugin_metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: plugin_metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sun0225SUN
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
           
+          # 🏆 Achievements 我的成就
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          
+          # 📰 Recent activity 最近活动
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 3
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          
+          # 🎟️ Follow-up of issues and pull requests
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          
+          # 📅 Isometric commit calendar 日历图
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year                            # Display full year instead of half year
+          
+          # ✨ Stargazers over last weeks
+          plugin_stargazers: yes
+          
+          # 🈷️ Most used languages 常用语言统计
+          plugin_languages: yes
+          plugin_languages_ignored: html, css                               # List of languages to ignore (忽略语言)
+          plugin_languages_skipped: sun0225SUN                              # List of repositories to skip (忽略仓库)
+          plugin_languages_colors: "0:orange, javascript:#ff0000, ..."      # Make most used languages orange and JavaScript red (语言配色)
+          plugin_languages_aliases: "JavaScript:JS, TypeScript:TS, ..."     # Customize languages names with aliases (重命名语言)
+          plugin_languages_details: bytes-size, percentage                  # Additionally display total bytes size and percentage (显示大小和百分比)
+          plugin_languages_threshold: 2%                                    # Hides all languages less than 2% (隐藏占比较少的语言)
+          plugin_languages_limit: 8                                         # Display up to 8 languages (显示的语言种数)
+          plugin_languages_sections: most-used, recently-used               # Display most used and recently used languages stats
+          plugin_languages_indepth: no                                      # Get indepth stats (see documentation before enabling) 
+          plugin_languages_categories: programming                          # Display only languages that match these categories in most-used section
+          plugin_languages_recent_categories: markup, programming           # Display only languages that match these categories in recently-used section
+          plugin_languages_recent_load: 500                                 # Load up to 500 events to compute recently used stats
+          plugin_languages_recent_days: 7                                   # Limit recently used stats to last week (最近使用的语言统计范围)
+          
+          # 💡 Coding habits (编码习惯)
+          plugin_habits: yes
+          plugin_habits_from: 200                                   # Use 200 events to compute habits
+          plugin_habits_days: 14                                    # Keep only events from last 14 days
+          plugin_habits_facts: yes                                  # Display facts section
+          plugin_habits_charts: yes                                 # Display charts section
+          plugin_habits_trim: yes                                   # Trim unused hours on daily chart
+          
+          # 🧑‍🤝‍🧑 People plugin 关注与被关注
+          plugin_people: yes
+          plugin_people_types: followers, following                 # Display followers and "thanks" sections
+          plugin_people_limit: 50                                   # Limit to 28 entries per section
+          plugin_people_size: 28                                    # Size in pixels of displayed avatars
+          plugin_people_identicons: no                              # Use avatars (do not use identicons)
+          plugin_people_thanks: octocat                             # Users that will be displayed in "thanks" section
+          plugin_people_sponsors_custom: octocat                    # Users that will be displayed additionally in "sponsors" section
+          plugin_people_shuffle: yes                                # Shuffle for varied output
+          
+          # 🗂️ Active projects 我的工程
+          plugin_projects: yes
+          plugin_projects_limit: 3
+         
+         # 🌟 Recently starred repositories
+          plugin_stars: yes
+          plugin_stars_limit: 3   # Limit to 4 entries
+          
+          # ⏱️ Website performances 网站性能
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes                            # Print detailed audit metrics (打印详细的审计指标)
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}    # Optional but recommended ( Google's PageSpeed API)
+          plugin_pagespeed_screenshot: yes                          # Display a screenshot of your website (是否显示网页截图)
+          plugin_pagespeed_url: https://www.sunguoqi.com            # Website to audit (站点URL)
+         
+         # 🎭 Comment reactions (评论反馈)
+          plugin_reactions: yes
+          plugin_reactions_limit: 200                               # Compute reactions over last 200 issue comments
+          plugin_reactions_limit_issues: 100                        # Compute reactions over last 100 issues/pull requests opened
+          plugin_reactions_days: 14                                 # Compute reactions on issue comments posted less than 14 days ago
+          plugin_reactions_details: count, percentage               # Display reactions count and percentage
+          plugin_reactions_ignored: bot                             # Ignore "bot" user
+          
+          # 💕 GitHub Sponsors 捐赠
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, about                     # Display goal and about sections
+    
       # GitHub Skyline 3D calendar 3D贡献图
       - name: GitHub Skyline 3D calendar
         uses: lowlighter/metrics@latest
@@ -94,7 +137,7 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           plugin_skyline: yes
-          plugin_skyline_year: 2021           # Set to 0 to display current year (统计年份)
-          plugin_skyline_frames: 30          # Use 60 frames (half-loop) (半循环or全循环)
-          plugin_skyline_quality: 0.5         # Set image quality (图片质量) 
-          plugin_skyline_compatibility: no    # Support additional browsers (⚠️ increases file size and reduce optimization)   
+          plugin_skyline_year: 2021                                 # Set to 0 to display current year (统计年份)
+          plugin_skyline_frames: 30                                 # Use 60 frames (half-loop) (半循环or全循环)
+          plugin_skyline_quality: 0.5                               # Set image quality (图片质量) 
+          plugin_skyline_compatibility: no                          # Support additional browsers (⚠️ increases file size and reduce optimization)   
