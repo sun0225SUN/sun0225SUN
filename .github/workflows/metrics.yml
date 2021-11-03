@@ -110,4 +110,3 @@ jobs:
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}    # Optional but recommended
           plugin_pagespeed_detailed: yes                            # Print detailed audit metrics
           plugin_pagespeed_screenshot: no                           # Display a screenshot of your website
-          plugin_pagespeed_url: .user.website                       # Website to audit (defaults to your GitHub linked website)
