@@ -9,7 +9,7 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"></div>
 <br>
 
-<!-- 个人资料卡片 -->
+<!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
@@ -18,6 +18,8 @@
   <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  
+<!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN"></div>
 
 <!-- 贪吃蛇代码贡献图 -->
@@ -76,6 +78,7 @@
 # Action 🏃
 
 <!-- wakatime 统计 -->
+
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -125,10 +128,10 @@ Windows                  5 hrs 40 mins       ███████████�
  Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
 
-<!-- 提交记录折线图 -->
+<!-- GitHub Activity Graph -->
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
 
-<!-- 连续提交代码天数 -->
+<!-- 连续提交代码天数记录 -->
 <p align="center">
   <a>
     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png">
