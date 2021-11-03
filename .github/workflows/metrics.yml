@@ -95,6 +95,6 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_skyline: yes
           plugin_skyline_year: 2021           # Set to 0 to display current year (统计年份)
-          plugin_skyline_frames: 120          # Use 60 frames (half-loop) (半循环or全循环)
+          plugin_skyline_frames: 60          # Use 60 frames (half-loop) (半循环or全循环)
           plugin_skyline_quality: 0.5         # Set image quality (图片质量) 
           plugin_skyline_compatibility: no    # Support additional browsers (⚠️ increases file size and reduce optimization)   
