@@ -90,3 +90,5 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_year: 2021
           plugin_skyline_frames: 120
+          plugin_skyline_quality: 0.1
+          
