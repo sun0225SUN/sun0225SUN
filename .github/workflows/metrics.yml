@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: GitHub metrics
 on:
   # Schedule updates
   schedule: 
@@ -11,8 +11,22 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: metrics_01
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics_01.svg
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: sun0225SUN
+          template: classic
+          base: "header, activity, community, repositories"
+          
+      - name: metrics_02
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics_02.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
