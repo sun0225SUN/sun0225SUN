@@ -152,7 +152,7 @@ Windows                  5 hrs 40 mins       ███████████�
 </div>
 
 <!-- plugin metrics -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="plugin metrics" width="75%"></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"></div>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"></div>
 
 
