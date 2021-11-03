@@ -19,7 +19,7 @@
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN"></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
@@ -69,7 +69,7 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 
 
@@ -131,9 +131,9 @@ Windows                  5 hrs 40 mins       ███████████�
 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true"/>
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png"/>
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </p>
 
 <!-- metrics 基础资料 -->
@@ -152,8 +152,11 @@ Windows                  5 hrs 40 mins       ███████████�
 <!-- plugin metrics -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/skyline_calendar.svg" alt="skyline_calendar" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
+
+
+
 
 # Social 🧑‍🤝‍🧑
 
@@ -161,6 +164,5 @@ Windows                  5 hrs 40 mins       ███████████�
 <div align="center">
   <img src="https://stats.justsong.cn/api/bilibili/?id=448488855"/>
   <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
 
