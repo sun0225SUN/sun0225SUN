@@ -75,8 +75,16 @@
 
 # Action 🏃
 
-<!-- wakatime 统计 -->
 
+<!-- Recent Blogs (最近的博文)-->
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+
+<!-- Douban 豆瓣动态 -->
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+
+<!-- wakatime 统计 -->
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
