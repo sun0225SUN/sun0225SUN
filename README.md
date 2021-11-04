@@ -78,10 +78,20 @@
 
 <!-- Recent Blogs (最近的博文)-->
 <!-- START_SECTION:blog -->
+* <a href='https://sunguoqi.com/2021/10/10/my_profile/' target='_blank'>炫酷流光个人主页源码分享及在线部署教程</a> - 2021-10-10
+* <a href='https://sunguoqi.com/2021/09/01/weather/' target='_blank'>Butterfly 主题添加天气小部件</a> - 2021-09-01
+* <a href='https://sunguoqi.com/2021/08/30/github/' target='_blank'>Github首页美化教程</a> - 2021-08-30
+* <a href='https://sunguoqi.com/2021/08/20/blog_01/' target='_blank'>Butterfly主题的安装及更新</a> - 2021-08-19
+* <a href='https://sunguoqi.com/2021/08/19/PWA/' target='_blank'>安装小孙同学</a> - 2021-08-19
 <!-- END_SECTION:blog -->
 
 <!-- Douban 豆瓣动态 -->
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
+* <a href='https://book.douban.com/subject/3259428/' target='_blank'>读过斜阳</a> - 2021-03-07
+* <a href='https://music.douban.com/subject/27089665/' target='_blank'>听过似水流年</a> - 2021-03-07
+* <a href='https://music.douban.com/subject/25864249/' target='_blank'>听过遥远的天空底下</a> - 2021-03-07
+* <a href='https://music.douban.com/subject/26369122/' target='_blank'>听过寂寞星空·见歌</a> - 2021-03-07
 <!-- END_SECTION:douban -->
 
 <!-- wakatime 统计 -->
