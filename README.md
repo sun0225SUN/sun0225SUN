@@ -73,7 +73,7 @@
 
 
 
-# 🏃 Action 
+# 🚀 Action 
 
 <!-- 连续提交代码天数记录 -->
 <p align="center">
@@ -200,7 +200,7 @@ Windows                  5 hrs 40 mins       ███████████�
 
 
 
-# 🧑‍🤝‍🧑 Social
+# 🤝 Social
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
