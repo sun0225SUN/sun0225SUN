@@ -122,10 +122,9 @@ jobs:
           plugin_skyline_quality: 0.5                               # Set image quality (图片质量) 
           plugin_skyline_compatibility: no                          # Support additional browsers (⚠️ increases file size and reduce optimization)   
           
-          
-#           # ⏱️ Website performances 网站性能(经常服务器响应错误,所以关闭了!)
-#           plugin_pagespeed: yes
-#           plugin_pagespeed_detailed: yes                            # Print detailed audit metrics (打印详细的审计指标)
-#           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}    # Optional but recommended ( Google's PageSpeed API)
-#           plugin_pagespeed_screenshot: yes                          # Display a screenshot of your website (是否显示网页截图)
-#           plugin_pagespeed_url: https://www.sunguoqi.com            # Website to audit (站点URL)
+          # ⏱️ Website performances 网站性能(经常服务器响应错误,所以关闭了!)
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes                            # Print detailed audit metrics (打印详细的审计指标)
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}    # Optional but recommended ( Google's PageSpeed API)
+          plugin_pagespeed_screenshot: yes                          # Display a screenshot of your website (是否显示网页截图)
+          plugin_pagespeed_url: https://www.sunguoqi.com            # Website to audit (站点URL)
