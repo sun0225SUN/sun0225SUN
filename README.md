@@ -108,6 +108,10 @@
 </table>
 
 
+<table align="center">
+<tr>
+<td valign="top">  
+
 <!-- wakatime 统计 -->
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -157,6 +161,10 @@ Windows                  5 hrs 40 mins       ███████████�
 
  Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
+
+</tr>
+</table>
+
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /></div>
