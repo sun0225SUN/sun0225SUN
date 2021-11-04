@@ -77,9 +77,9 @@
 
 <!-- 最近博客和豆瓣动态 -->
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="60%">    
+<td valign="top">    
 
 ### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
   
@@ -92,7 +92,7 @@
 <!-- END_SECTION:blog -->
   
 </td>
-<td valign="top" width="40%">
+<td valign="top">
   
 ### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
 
