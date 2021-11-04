@@ -204,7 +204,7 @@ Windows                  5 hrs 40 mins       ███████████�
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
-  <img src="https://stats.justsong.cn/api/bilibili/?id=448488855"/>
-  <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"/>
+  <a href="https://space.bilibili.com/448488855/"><img src="https://stats.justsong.cn/api/bilibili/?id=448488855"/></a>
+  <a href="https://blog.csdn.net/weixin_50915462"><img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"/></a>
 </div>
 
