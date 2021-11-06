@@ -4,7 +4,7 @@
 name: GitHub metrics
 on:
   schedule: 
-      - cron: "0 16 * * *"
+      - cron: "0 0 * * *"
   workflow_dispatch:
   push: {branches: ["master", "main"]}
   
