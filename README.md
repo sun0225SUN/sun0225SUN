@@ -118,11 +118,11 @@
 ### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
+* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
 * <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
 * <a href='https://book.douban.com/subject/3259428/' target='_blank'>读过斜阳</a> - 2021-03-07
 * <a href='https://music.douban.com/subject/27089665/' target='_blank'>听过似水流年</a> - 2021-03-07
-* <a href='https://music.douban.com/subject/25864249/' target='_blank'>听过遥远的天空底下</a> - 2021-03-07
-* <a href='https://music.douban.com/subject/26369122/' target='_blank'>听过寂寞星空·见歌</a> - 2021-03-07
 <!-- END_SECTION:douban -->
 </td>
 </tr>
