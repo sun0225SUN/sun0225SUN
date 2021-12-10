@@ -105,11 +105,11 @@
 ### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
+* <a href='https://sunguoqi.com/2021/12/09/Django_01/' target='_blank'>First Django App!（1）</a> - 2021-12-09
 * <a href='https://sunguoqi.com/2021/12/06/Django_00/' target='_blank'>Hello Django！</a> - 2021-12-06
 * <a href='https://sunguoqi.com/2021/11/07/douban_top250/' target='_blank'>豆瓣电影top250爬虫及可视化分析</a> - 2021-11-07
 * <a href='https://sunguoqi.com/2021/10/10/my_profile/' target='_blank'>炫酷流光个人主页源码分享及在线部署教程</a> - 2021-10-10
 * <a href='https://sunguoqi.com/2021/09/01/weather/' target='_blank'>Butterfly 主题添加天气小部件</a> - 2021-09-01
-* <a href='https://sunguoqi.com/2021/08/30/github/' target='_blank'>Github首页美化教程</a> - 2021-08-30
 <!-- END_SECTION:blog -->
   
 </td>
