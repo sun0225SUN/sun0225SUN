@@ -105,11 +105,11 @@
 ### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
+* <a href='https://sunguoqi.com/2021/12/25/christmas/' target='_blank'>Merry Christmas！</a> - 2021-12-25
 * <a href='https://sunguoqi.com/2021/12/17/server/' target='_blank'>云服务器初始配置</a> - 2021-12-17
 * <a href='https://sunguoqi.com/2021/12/15/Django_04/' target='_blank'>Django 项目部署</a> - 2021-12-15
 * <a href='https://sunguoqi.com/2021/12/14/Django_03/' target='_blank'>Django 自定义后台</a> - 2021-12-14
 * <a href='https://sunguoqi.com/2021/12/10/Django_02/' target='_blank'>Django 自动化测试 && 静态文件的引入</a> - 2021-12-10
-* <a href='https://sunguoqi.com/2021/12/09/Django_01/' target='_blank'>First Django App！</a> - 2021-12-09
 <!-- END_SECTION:blog -->
   
 </td>
