@@ -197,13 +197,11 @@ Windows                  2 hrs 1 min         ███████████�
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
 
-
-
-# 🤝 Social
+<!-- # 🤝 Social -->
 
 <!-- BiliBili和CSDN数据 -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://space.bilibili.com/448488855/"><img src="https://stats.justsong.cn/api/bilibili/?id=448488855"/></a>
   <a href="https://blog.csdn.net/weixin_50915462"><img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"/></a>
-</div>
+</div> -->
 
