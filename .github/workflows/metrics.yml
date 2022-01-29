@@ -23,7 +23,7 @@ jobs:
           user: sun0225SUN
           template: classic
           config_timezone: Asia/Shanghai
-          committer_message: ":rocket: update"
+          committer_message: ":rocket: Update"
           base: "header, activity, community, repositories"
           plugin_traffic: yes
           plugin_lines: yes
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: sun0225SUN
           template: classic
-          committer_message: ":rocket: update"
+          committer_message: ":rocket: Update"
           base: ""
           config_timezone: Asia/Shanghai
           
