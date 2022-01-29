@@ -50,7 +50,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 3
+          plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
           
@@ -81,7 +81,7 @@ jobs:
           plugin_languages_categories: programming                          # Display only languages that match these categories in most-used section
           plugin_languages_recent_categories: markup, programming           # Display only languages that match these categories in recently-used section
           plugin_languages_recent_load: 500                                 # Load up to 500 events to compute recently used stats
-          plugin_languages_recent_days: 7                                   # Limit recently used stats to last week (最近使用的语言统计范围)
+          plugin_languages_recent_days: 14                                  # Limit recently used stats to last week (最近使用的语言统计范围)
           
           # 💡 Coding habits (编码习惯)
           plugin_habits: yes
@@ -103,11 +103,11 @@ jobs:
           
           # 🗂️ Active projects 我的工程
           plugin_projects: yes
-          plugin_projects_limit: 3
+          plugin_projects_limit: 5
          
          # 🌟 Recently starred repositories
           plugin_stars: yes
-          plugin_stars_limit: 3   # Limit to 4 entries
+          plugin_stars_limit: 5   # Limit to 5 entries
          
          # 🎭 Comment reactions (评论反馈)
           plugin_reactions: yes
