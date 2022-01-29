@@ -27,4 +27,4 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
-          message: 'Generate Contribution Snake'
+          message: ':rocket: Update'
