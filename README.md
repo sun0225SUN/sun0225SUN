@@ -86,7 +86,7 @@
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="1000"/></div>
 
 
-# 🚀 Action 
+# 🚀 Actions
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
