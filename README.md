@@ -68,7 +68,6 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-
 <!-- Gifs found on GIPHY made by @devrock -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
@@ -82,7 +81,7 @@
 </div>
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="1000"/></div>
 
 
 # 🚀 Action 
@@ -107,7 +106,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-
 
 <!-- 最近博客和豆瓣动态 -->
 <table align="center" >
@@ -205,12 +203,3 @@ Windows                  50 mins             ███████████�
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
-
-<!-- # 🤝 Social -->
-
-<!-- BiliBili和CSDN数据 -->
-<!-- <div align="center">
-  <a href="https://space.bilibili.com/448488855/"><img src="https://stats.justsong.cn/api/bilibili/?id=448488855"/></a>
-  <a href="https://blog.csdn.net/weixin_50915462"><img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"/></a>
-</div> -->
-
