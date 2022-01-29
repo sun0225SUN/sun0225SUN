@@ -24,7 +24,6 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
 
-
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
@@ -68,7 +67,7 @@
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<!-- Gifs found on GIPHY made by @devrock -->
+<!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
@@ -80,21 +79,24 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
+<!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+
+<!-- profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="1000"/></div>
 
 
 # 🚀 Action 
 
 <!-- 连续提交代码天数记录 -->
-<p align="center">
+<div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</p>
+</div>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/basic_metrics.svg" alt="basic metrics"/></div>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
@@ -112,7 +114,7 @@
 <br>
 
 <!-- 最近博客和豆瓣动态 -->
-<table align="center" >
+<table align="center">
 <tr>
 <td valign="top">    
 
@@ -127,6 +129,7 @@
 <!-- END_SECTION:blog -->
   
 </td>
+    
 <td valign="top">
   
 ### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
@@ -138,7 +141,8 @@
 * <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
 * <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
 <!-- END_SECTION:douban -->
-</td>
+  
+</td> 
 </tr>
 </table>
 
@@ -192,10 +196,20 @@ Windows                  50 mins             ███████████�
 
  Last Updated on 29/01/2022 01:03:52 UTC
 <!--END_SECTION:waka-->
-
+</td>
 </tr>
 </table>
 
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<!-- Wakatime Graph-->
 <table align="center" >
   <tr>
     <td>
@@ -207,16 +221,11 @@ Windows                  50 mins             ███████████�
   </tr>
 </table>
 
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /></div>
-
-
-
-
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
+<!-- just img -->
 <div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
+
 <!-- plugin metrics -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
