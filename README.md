@@ -94,9 +94,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
+<br>
 
 <!-- metrics 基础资料 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
+<br>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
@@ -225,6 +227,27 @@ Windows                  2 hrs 52 mins       ███████████�
     </td>
   </tr>
 </table>
+
+<!-- Dynamic Heatmap -->
+<table align="center" >
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/bilibili.svg" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/shanbay.svg" />
+    </td>
+  </tr>
+</table>
+
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
