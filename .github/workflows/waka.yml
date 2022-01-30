@@ -19,5 +19,5 @@ jobs:
           SHOW_LOC_CHART : "False"
           SHOW_SHORT_INFO : "False"
           SHOW_PROJECTS : "False"
-          SHOW_CODE_TIME : "False"
+          SHOW_TOTAL_CODE_TIME : "False"
           SHOW_TITLE : true
