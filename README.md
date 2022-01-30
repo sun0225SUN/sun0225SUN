@@ -247,7 +247,7 @@ Windows                  2 hrs 52 mins       ███████████�
     </td>
   </tr>
 </table>
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
+
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
@@ -257,4 +257,5 @@ Windows                  2 hrs 52 mins       ███████████�
 <!-- plugin metrics -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
