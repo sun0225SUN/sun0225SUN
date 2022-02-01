@@ -213,7 +213,9 @@ Windows                  3 hrs 16 mins       ███████████�
       <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
+</table>
 
+<table>
 <!-- Wakatime Graph-->
   <tr>
     <td>
@@ -223,7 +225,9 @@ Windows                  3 hrs 16 mins       ███████████�
       <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
     </td>
   </tr>
+</table>
 
+<table>
 <!-- Dynamic Heatmap -->
   <tr>
     <td colspan="2" >
