@@ -230,6 +230,11 @@ Windows                  3 hrs 16 mins       ███████████�
 <!-- Dynamic Heatmap -->
 <table align="center" >
   <tr>
+    <td colspan="2">
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
+    </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
     </td>
