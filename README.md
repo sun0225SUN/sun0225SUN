@@ -215,8 +215,8 @@ Windows                  5 hrs 50 mins       ███████████�
   </tr>
 </table>
 
-<table>
 <!-- Wakatime Graph-->
+<table>
   <tr>
     <td>
       <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
@@ -227,8 +227,8 @@ Windows                  5 hrs 50 mins       ███████████�
   </tr>
 </table>
 
-<table>
 <!-- Dynamic Heatmap -->
+<table>
   <tr>
     <td colspan="2" >
       <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
