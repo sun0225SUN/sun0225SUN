@@ -34,8 +34,8 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&hide_border=true" /></div>
+<a href="https://github.com/sun0225SUN/Awesome-Love-Code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/sun0225SUN/Student-Data-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&hide_border=true" /></a></div>
 
 💪 正在学习: 
 
