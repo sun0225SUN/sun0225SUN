@@ -34,8 +34,8 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/sun0225SUN/Awesome-Love-Code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&hide_border=true&bg_color=000" /></a>
-<a href="https://github.com/sun0225SUN/Student-Data-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&hide_border=true&bg_color=000" /></a></div>
+<a href="https://github.com/sun0225SUN/Awesome-Love-Code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117" /></a>
+<a href="https://github.com/sun0225SUN/Student-Data-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=0d1117" /></a></div>
 
 💪 正在学习: 
 
