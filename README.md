@@ -233,24 +233,11 @@ No Activity Tracked This Week
 <!-- Dynamic Heatmap -->
 <table>
   <tr>
-    <td colspan="2" >
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Running/assets/github.svg" width="100%" />
-    </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/bilibili.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/shanbay.svg" />
     </td>
   </tr>
 </table>
