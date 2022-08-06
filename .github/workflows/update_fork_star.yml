@@ -1,0 +1,23 @@
+name: 这个仓库有 x 个 star y 个 fork
+
+on:
+  push:
+    branches:
+      - master
+  fork:
+  watch:
+    types:
+      - started
+  schedule:
+    - cron: '20 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: This repo has x stars y forks
+        uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          template: "Beauty is the first productive force ! sun0225SUN's readme profile with <starCount> stars and <forkCount> forks 🎉"
