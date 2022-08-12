@@ -131,11 +131,11 @@
 ### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
   
 <!-- START_SECTION:blog -->
+* <a href='https://sunguoqi.com/posts/2022811.html' target='_blank'>冥冥之中，自有注定，但行好事，莫问前程！</a> - 2022-08-11
 * <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
 * <a href='https://sunguoqi.com/posts/fiddler.html' target='_blank'>我终于学废用Fiddler抓包了！</a> - 2022-01-24
 * <a href='https://sunguoqi.com/posts/4243.html' target='_blank'>零基础快速上手云服务器</a> - 2022-01-09
 * <a href='https://sunguoqi.com/posts/33414.html' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
-* <a href='https://sunguoqi.com/posts/cuiqingcai.html' target='_blank'>21年终总结&&关于我自学爬虫的点滴经历</a> - 2021-12-31
 <!-- END_SECTION:blog -->
   
 </td>
