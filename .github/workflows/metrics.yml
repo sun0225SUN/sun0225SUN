@@ -100,10 +100,6 @@ jobs:
           plugin_people_thanks: octocat                             # Users that will be displayed in "thanks" section
           plugin_people_sponsors_custom: octocat                    # Users that will be displayed additionally in "sponsors" section
           plugin_people_shuffle: yes                                # Shuffle for varied output
-          
-          # 🗂️ Active projects 我的工程
-          plugin_projects: yes
-          plugin_projects_limit: 5
          
          # 🌟 Recently starred repositories
           plugin_stars: yes
