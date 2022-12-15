@@ -230,18 +230,6 @@ Windows                  1 hr 15 mins        ███████████�
   </tr>
 </table>
 
-<!-- Dynamic Heatmap -->
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/github.svg" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Heatmap/OUT_FOLDER/wakatime.svg" />
-    </td>
-  </tr>
-</table>
-
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
