@@ -214,7 +214,7 @@ Windows                  30 mins             ███████████�
 <table align="center">
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
 </table>
