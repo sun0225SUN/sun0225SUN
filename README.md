@@ -6,17 +6,17 @@
 </h1>
 
 <!-- knock code pictures 敲代码的图片 -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/></div><br>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /></div><br>
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
-  <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/website-博客-blue"></a>&emsp;
-  <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-推特-blue"></a>&emsp;
-  <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-脸书-003472"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-油管-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-知乎-blue"></a>&emsp;
+  <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/website-博客-blue" /></a>&emsp;
+  <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/twitter-推特-blue" /></a>&emsp;
+  <a href="https://www.facebook.com/profile.php?id=100070064104265/"><img src="https://img.shields.io/badge/facebook-脸书-003472" /></a>&emsp;
+  <a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-油管-c32136" /></a>&emsp;
+  <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-知乎-blue" /></a>&emsp;
 <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /></div>
 
@@ -121,7 +121,7 @@
 </div>
 
 <!-- Quotes 名人名言 -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
 
 <!-- Awesome repo 比较好的仓库-->
 <div align="center">
@@ -243,7 +243,7 @@ Windows                  3 hrs 4 mins        ███████████�
 <h1 align="center">🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>
 
 <!-- just img 仅仅是一张图片 -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif"/></div>
+<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /></div>
 
 <!-- plugin metrics 信息指标 -->
 <div align="center">
@@ -271,7 +271,7 @@ Windows                  3 hrs 4 mins        ███████████�
 <!-- third form 第三个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="plugin metrics" alt="plugin metrics" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="plugin metrics" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/habits.charts.svg" alt="plugin metrics" /></td>
   </tr>
   <tr>
