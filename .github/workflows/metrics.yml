@@ -1,6 +1,7 @@
 # 此开源项目地址 https://github.com/lowlighter/metrics
 
 name: GitHub metrics
+
 on:
   schedule:
     - cron: "0 0 * * *"
