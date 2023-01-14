@@ -1,9 +1,6 @@
 name: Update fork star
 
 on:
-  push:
-    branches:
-      - main
   fork:
   watch:
     types:
