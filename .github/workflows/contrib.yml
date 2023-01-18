@@ -2,7 +2,7 @@ name: GitHub contrib
 
 on:
   schedule:
-    - cron: "0 16 * * *"
+    - cron: "0 17 * * *"
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
