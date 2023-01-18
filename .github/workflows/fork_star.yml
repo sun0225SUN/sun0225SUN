@@ -6,7 +6,7 @@ on:
     types:
       - started
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 17 * * *'
   workflow_dispatch:
 
 jobs:
