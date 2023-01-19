@@ -2,7 +2,7 @@ name: Snake animation
 
 on:
   schedule:
-    - cron: "0 17 * * *" 
+    - cron: "0 0 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
