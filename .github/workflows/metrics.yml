@@ -1,6 +1,6 @@
 # 此开源项目地址 https://github.com/lowlighter/metrics
 
-name: GitHub metrics
+name: GitHub Metrics
 
 on:
   schedule:
