@@ -105,11 +105,13 @@
 
 <h1 align="center">🚀 Actions </h1>
 
-<!-- Joke 笑话 -->
-<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-
 <!-- Spotify 音乐 -->
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31k53kp6hgkbovg72427dya5av44&cover_image=true&theme=default&show_offline=true&background_color=121212" /></div>
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" alt="coffee" /></div>
+
+<!-- Joke 笑话 -->
+<div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- 连续提交代码天数记录 -->
 <div align="center">
