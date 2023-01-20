@@ -270,7 +270,7 @@ Linux                    49 mins             █░░░░░░░░░░�
 <h1 align="center">🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>
 
 <!-- just img 仅仅是一张图片 -->
-<div align="center"><img width="30%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /></div>
+<div align="center"><img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /></div>
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
