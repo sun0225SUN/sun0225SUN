@@ -12,7 +12,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # 基础信息（顺带了六个小插件）
+      # 基础信息（顺带了几个小插件）
       - name: base
         uses: lowlighter/metrics@latest
         with:
@@ -39,10 +39,10 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 8
           plugin_starlists_only: Awesome
-          # 此插件为文档中的 🎩 Notable contributions
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
+#           # 此插件为文档中的 🎩 Notable contributions
+#           plugin_notable: yes
+#           plugin_notable_indepth: yes
+#           plugin_notable_repositories: yes
 
       # 📅 Isometric commit calendar
       - name: Full-year calendar
