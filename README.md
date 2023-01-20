@@ -34,6 +34,8 @@
 <!-- 技能徽章 skill badge -->
 <div align="center" >
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Lifting%20Weights.png" alt="Man Lifting Weights" width="250" height="250" />
+
 💪 正在学习
 
 &emsp;&emsp;
