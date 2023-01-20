@@ -23,19 +23,18 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /></div>
 
+<!-- Self introduction 自我介绍 -->
 #  🙋 Hello
 
-<!-- Self introduction 自我介绍 -->
 <p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
-<!-- 技能徽章 skill badge -->
-<div align="center" >
+<!-- just img 图片 -->
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Lifting%20Weights.png" alt="Man Lifting Weights" width="250" height="250" />
-
+<!--  skill badge 技能徽章 -->
 💪 正在学习
 
 &emsp;&emsp;
@@ -113,7 +112,8 @@
 <!-- profile-3d-contrib 3D贡献图-->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" /></div>
 
-<h1 align="center">🚀 Actions </h1>
+<!-- just img 图片 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" /></div>
 
 <!-- Spotify 音乐 -->
 <div align="center">
@@ -272,7 +272,7 @@ Linux                    49 mins             █░░░░░░░░░░�
 
 <h1 align="center">🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>
 
-<!-- just img 仅仅是一张图片 -->
+<!-- just img 图片 -->
 <div align="center"><img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /></div>
 
 <!-- GitHub metrics 信息指标 -->
