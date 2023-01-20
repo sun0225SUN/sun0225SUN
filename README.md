@@ -127,13 +127,17 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </div><br>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" /></div><br>
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
+  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+</div><br>
 
 <!-- My Blog 博客首页 -->
 <div align="center" >
@@ -266,9 +270,9 @@ Linux                    49 mins             █░░░░░░░░░░�
 <h1 align="center">🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>
 
 <!-- just img 仅仅是一张图片 -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /></div>
+<div align="center"><img width="30%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /></div>
 
-<!-- plugin metrics 信息指标 -->
+<!-- GitHub metrics 信息指标 -->
 <div align="center">
   
 <!-- first form 第一个表格 -->
@@ -280,6 +284,7 @@ Linux                    49 mins             █░░░░░░░░░░�
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/skyline.svg" alt="skyline" /></td>
   </tr>
 </table>
+
 <!-- second form 第二个表格 -->
 <table>
   <tr>
@@ -310,8 +315,6 @@ Linux                    49 mins             █░░░░░░░░░░�
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
-
-
 </table>
 
 <!-- just img 图片 -->
