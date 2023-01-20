@@ -172,6 +172,7 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_limit: 500
+          plugin_people_size: 30
           plugin_people_types: followers, following
        
 #       # 💕 GitHub Sponsors
@@ -263,17 +264,17 @@ jobs:
 #           plugin_projects_repositories: lowlighter/metrics/projects/1
 #           plugin_projects_descriptions: yes
 
-      # 🌇 GitHub Skyline
-      - name: GitHub Skyline
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/skyline.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: 2023
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 1
+#       # 🌇 GitHub Skyline
+#       - name: GitHub Skyline
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/skyline.svg
+#           token: NOT_NEEDED
+#           base: ""
+#           plugin_skyline: yes
+#           plugin_skyline_year: 2023
+#           plugin_skyline_frames: 60
+#           plugin_skyline_quality: 1
      
       # ⏱️ Google PageSpeed
       - name: Screenshot
