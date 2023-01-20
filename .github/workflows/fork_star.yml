@@ -1,4 +1,4 @@
-name: Update fork star
+name: Update Fork Star
 
 on:
   fork:
