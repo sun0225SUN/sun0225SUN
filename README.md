@@ -72,19 +72,12 @@
 
 </div>
 
+
+
+
 <!-- 编程工具图标 programming tool icon -->
 <div align="center">
-  
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/bootstrap.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/git.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/android.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/java.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/c++.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/c.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/firebase.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/atom.png"></code>
-<code><img height="60" width="60" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/ubuntu.png"></code>
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" />
 <br><br>
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
