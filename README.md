@@ -168,16 +168,26 @@
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div> 
 
-<!-- Blog Post 最近博客 -->
+<!-- 最近博客及豆瓣动态 -->
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<table align="center"><tr><td valign="top">  
+#### 🤹‍♀️ <a href="https://blog.sunguoqi.com/" target="_blank">Recent Blog</a>
 
-**:memo: Blog posts** 
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+</td>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<td valign="top" width="50%">
 
-</td></tr></table>
+#### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+</td>
+</tr>
+</table>
 
 <!-- wakatime 统计 -->
 <table align="center"><tr><td valign="top">
