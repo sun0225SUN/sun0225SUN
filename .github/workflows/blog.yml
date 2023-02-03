@@ -1,4 +1,4 @@
-name: Latest Blog Post
+name: Social Readme
 
 on:
   schedule:
@@ -6,13 +6,16 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: sun0225SUN/Social-Readme@main
+      - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://blog.sunguoqi.com/rss.xml
+          blog_limit: 5 # blog数量
           douban_name: sun0225SUN
+          douban_limit: 5 # 豆瓣最新动态数量
+          commit_message: Updated social rss by social-readme # commit说明
