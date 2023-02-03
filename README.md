@@ -168,18 +168,6 @@
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div> 
 
-<!-- 最近博客及豆瓣动态 -->
-<table align="center">
-<tr>
-<td valign="top">
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-</td>
-</tr>
-</table>
-
 <!-- wakatime 统计 -->
 <table align="center"><tr><td valign="top">
   
