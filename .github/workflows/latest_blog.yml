@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  update-social:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: sun0225SUN/Latest-Blog-Post@main
