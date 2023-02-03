@@ -32,6 +32,38 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
+<table align="center">
+  
+<tr>
+<td valign="top" width="60%">
+  
+#### 🤹‍♀️ <a href="https://blog.sunguoqi.com/" target="_blank">Recent Blog</a>
+  
+<!-- START_SECTION:blog -->
+* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
+* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
+* <a href='https://blog.sunguoqi.com/archives/hello_2023' target='_blank'>再见，2022！你好，2023！</a> - 2023-01-26
+* <a href='https://blog.sunguoqi.com/archives/doubanapi' target='_blank'>使用 Flask 快速构建豆瓣图书/电影海报 WebAPI</a> - 2023-01-09
+<!-- END_SECTION:blog -->
+</td>
+<td valign="top" width="40%">
+  
+#### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
+  
+<!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
+* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
+* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
+* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
+* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
+<!-- END_SECTION:douban -->
+</td>
+</tr>
+  
+</table>
+
+
 <!-- just img 图片 -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
@@ -223,40 +255,6 @@ Linux                    6 hrs 17 mins       █████░░░░░░�
 <!--END_SECTION:waka-->
   
 </td></tr></table>
-
-<table align="center">
-
-<tr>
-
-<td valign="top" width="60%">
-
-#### 🤹‍♀️ <a href="https://blog.sunguoqi.com/" target="_blank">Recent Blog</a>
-
-<!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
-* <a href='https://blog.sunguoqi.com/archives/hello_2023' target='_blank'>再见，2022！你好，2023！</a> - 2023-01-26
-* <a href='https://blog.sunguoqi.com/archives/doubanapi' target='_blank'>使用 Flask 快速构建豆瓣图书/电影海报 WebAPI</a> - 2023-01-09
-<!-- END_SECTION:blog -->
-</td>
-
-<td valign="top" width="40%">
-
-#### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
-* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
-<!-- END_SECTION:douban -->
-</td>
-
-</tr>
-</table>
-
 
 <!-- Programming isn't about what you know -->
 <h2 align="center">
