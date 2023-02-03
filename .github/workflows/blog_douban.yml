@@ -12,7 +12,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: sun0225SUN/Social-Readme@main
         with:
           blog_rss_link: https://blog.sunguoqi.com/rss.xml
           blog_limit: 5 # blog数量
