@@ -235,6 +235,8 @@ Linux                    6 hrs 17 mins       █████░░░░░░�
   </tr>
 </table>
 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
 <!-- run 图片 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" /></div>
 
