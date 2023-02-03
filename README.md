@@ -168,10 +168,19 @@
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div> 
 
+<!-- Blog Post 最近博客 -->
+
+<table align="center"><tr><td valign="top">  
+
+**:memo: Blog posts** 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</td></tr></table>
+
 <!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
+<table align="center"><tr><td valign="top">
   
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -223,9 +232,8 @@ Linux                    6 hrs 17 mins       █████░░░░░░�
 
  Last Updated on 03/02/2023 01:41:12 UTC
 <!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
+  
+</td></tr></table>
 
 <!-- Programming isn't about what you know -->
 
