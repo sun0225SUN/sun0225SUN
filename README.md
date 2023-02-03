@@ -205,7 +205,6 @@ Linux                    6 hrs 17 mins       █████░░░░░░�
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/>
   
 <!-- Quotes 名人名言 -->
@@ -238,9 +237,6 @@ Linux                    6 hrs 17 mins       █████░░░░░░�
 
 <!-- run 图片 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" /></div>
-
-<!-- just img 图片 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coffee.gif" alt="coffee" /></div><br>
 
 <!-- Joke 笑话 -->
 <div align="center"><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
