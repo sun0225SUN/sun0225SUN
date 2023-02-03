@@ -317,3 +317,10 @@ Linux                    6 hrs 17 mins       █████░░░░░░�
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 </div>
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
+
