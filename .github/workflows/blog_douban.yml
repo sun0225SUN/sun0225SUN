@@ -16,3 +16,6 @@ jobs:
         with:
           blog_rss_link: https://blog.sunguoqi.com/rss.xml
           douban_name: sun0225SUN
+          blog_limit: 5 # blog数量
+          douban_limit: 5 # 豆瓣最新动态数量
+          commit_message: Updated social rss by social-readme # commit说明
