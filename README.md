@@ -34,6 +34,8 @@
   
 #### ✍️ About me
   
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
 <p>&emsp;&emsp;大家好，我是小孙同学。</p>
 <p>&emsp;&emsp;目前就读于安徽理工大学地理信息科学专业。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
@@ -47,6 +49,8 @@
 <td>
 
 #### 🤹‍♀️ Recent Blog
+  
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
