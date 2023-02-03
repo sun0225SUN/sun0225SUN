@@ -26,6 +26,11 @@
 
 #  🙋 Hello
 
+<table>
+  
+<tr>
+<td>
+
 #### 🤹‍♀️ Recent Blog
 
 <!-- START_SECTION:blog -->
@@ -35,13 +40,22 @@
 * <a href='https://blog.sunguoqi.com/archives/hello_2023' target='_blank'>再见，2022！你好，2023！</a> - 2023-01-26
 * <a href='https://blog.sunguoqi.com/archives/doubanapi' target='_blank'>使用 Flask 快速构建豆瓣图书/电影海报 WebAPI</a> - 2023-01-09
 <!-- END_SECTION:blog -->
-
-<!-- Self introduction 自我介绍 -->
-
-<p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+</td>
+</tr>
+<tr>
+<td>
+<!-- About me 关于我 -->
+  
+#### ✍️ About me
+  
+<p>&emsp;&emsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
+</td>
+</tr>
+  
+</table>
 
 <!-- just img 图片 -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
