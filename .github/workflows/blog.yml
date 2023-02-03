@@ -16,4 +16,4 @@ jobs:
       - name: Pull Blog
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.sunguoqi.com/"
+          feed_list: "https://blog.sunguoqi.com/rss.xml"
