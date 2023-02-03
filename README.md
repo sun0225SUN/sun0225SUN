@@ -35,7 +35,7 @@
 <table align="center">
   
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
   
 #### 🤹‍♀️ <a href="https://blog.sunguoqi.com/" target="_blank">Recent Blog</a>
   
@@ -47,7 +47,7 @@
 * <a href='https://blog.sunguoqi.com/archives/doubanapi' target='_blank'>使用 Flask 快速构建豆瓣图书/电影海报 WebAPI</a> - 2023-01-09
 <!-- END_SECTION:blog -->
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
   
 #### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
   
