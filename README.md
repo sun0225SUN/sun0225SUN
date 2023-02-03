@@ -171,20 +171,11 @@
 <!-- 最近博客及豆瓣动态 -->
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
-#### 🤹‍♀️ <a href="https://blog.sunguoqi.com/" target="_blank">Recent Blog</a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<!-- START_SECTION:blog -->
-<!-- END_SECTION:blog -->
-</td>
-
-<td valign="top" width="50%">
-
-#### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-<!-- END_SECTION:douban -->
 </td>
 </tr>
 </table>
