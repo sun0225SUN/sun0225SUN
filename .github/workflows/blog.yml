@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog post
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull  posts
+      - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.sunguoqi.com/feed.xml"
+          feed_list: "https://blog.sunguoqi.com/feed.xml/"
