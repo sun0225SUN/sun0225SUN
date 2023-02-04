@@ -168,7 +168,7 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_limit: 500
-          plugin_people_size: 30
+          plugin_people_size: 36
           plugin_people_types: followers, following
        
 #       # 💕 GitHub Sponsors
