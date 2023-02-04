@@ -23,7 +23,6 @@ jobs:
           user: sun0225SUN
           template: classic
           config_timezone: Asia/Shanghai
-          committer_message: ":rocket: Update base metrics"
           base: "header, activity, community, repositories"
           # 此插件为文档中的 🧮 Repositories traffic
           plugin_traffic: yes
