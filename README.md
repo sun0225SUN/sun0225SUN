@@ -280,8 +280,6 @@ Linux                    6 hrs 24 mins       █████░░░░░░�
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-<h1 align="center">🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</h1>
-
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
@@ -292,6 +290,7 @@ Linux                    6 hrs 24 mins       █████░░░░░░�
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/skyline.svg" alt="skyline" /></td>
   </tr>
 </table>
 
