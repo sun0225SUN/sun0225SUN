@@ -290,7 +290,6 @@ Linux                    6 hrs 24 mins       █████░░░░░░�
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/people.followers.svg" alt="people.followers" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/skyline.svg" alt="skyline" /></td>
   </tr>
 </table>
 
