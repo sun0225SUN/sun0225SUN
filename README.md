@@ -68,6 +68,8 @@
 
 ### ✨ My Soul
 
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
 * <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
