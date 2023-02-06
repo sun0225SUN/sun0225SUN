@@ -66,6 +66,15 @@
 
 <tr><td>
 
+### ✨ My Soul
+
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+
+</td></tr>
+
+<tr><td>
+
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
   
