@@ -69,6 +69,11 @@
 ### ✨ My Soul
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
+* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
+* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
+* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
+* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
