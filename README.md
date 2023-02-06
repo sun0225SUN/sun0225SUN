@@ -34,7 +34,7 @@
 <tr><td>
 
 <!-- About me 关于我 -->
-### 🤺 About me
+### 🤺 About Me
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
