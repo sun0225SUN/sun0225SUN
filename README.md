@@ -50,9 +50,15 @@
 <tr>
 <td>
   
-### 💻 Work Experience
+### 🏢 Work Experience
 
-  - 🏢 [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp;&emsp; 📌 2023.2.20 —— now
+  - [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— Now
+  
+    - 工作岗位：实习生
+  
+    - 工作内容：前端开发
+  
+    - 工作方向：一站式数据治理与开发
 
 </td>
 </tr>
