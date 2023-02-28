@@ -52,7 +52,7 @@
   
 ### 💻 Work Experience
 
-  - 🏢 [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp;&emsp; 📌 2022.2.20 —— now
+  - 🏢 [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp;&emsp; 📌 2023.2.20 —— now
 
 </td>
 </tr>
