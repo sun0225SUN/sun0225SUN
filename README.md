@@ -86,6 +86,17 @@
 
 <tr><td>
 
+### 🧠 Second Brain
+
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</td></tr>
+
+<tr><td>
+
 ### 🤾‍♂️ Funny Soul
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
