@@ -90,13 +90,8 @@
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<!-- BLOG-POST-LIST:START -->
-- 🦩 [前端发展简史](https://brain.sunguoqi.com/pages/9207e1/) 
-
-- 🤠 [console.log&lpar;&quot;Hello World&quot;&rpar;](https://brain.sunguoqi.com/pages/9de702/) 
-
-- 💂 [前端学习路线](https://brain.sunguoqi.com/pages/0ef920/) 
-<!-- BLOG-POST-LIST:END -->
+<!-- START_SECTION:brain -->
+<!-- END_SECTION:brain -->
 
 </td></tr>
 
