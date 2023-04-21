@@ -94,6 +94,8 @@
 * <a href='https://brain.sunguoqi.com/pages/9de702/' target='_blank'>console.log("Hello World")</a> - 2023-04-09
 * <a href='https://brain.sunguoqi.com/pages/9207e1/' target='_blank'>前端发展简史</a> - 2023-04-09
 * <a href='https://brain.sunguoqi.com/pages/0ef920/' target='_blank'>前端学习路线</a> - 2023-04-02
+* <a href='https://brain.sunguoqi.com/pages/bc9176/' target='_blank'>todo</a> - 2023-04-22
+* <a href='https://brain.sunguoqi.com/pages/ee9f4d/' target='_blank'>todo</a> - 2023-04-22
 <!-- END_SECTION:brain -->
 
 </td></tr>
