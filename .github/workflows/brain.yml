@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in eryajf posts
+      - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
