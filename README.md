@@ -75,9 +75,11 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://brain.sunguoqi.com/pages/9de702/' target='_blank'>console.log("Hello World")</a> - 2023-04-09
-* <a href='https://brain.sunguoqi.com/pages/9207e1/' target='_blank'>前端发展简史</a> - 2023-04-09
-* <a href='https://brain.sunguoqi.com/pages/0ef920/' target='_blank'>前端学习路线</a> - 2023-04-02
+* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
+* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
+* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
+* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
+* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
 <!-- END_SECTION:blog -->
 
 </td></tr>
@@ -89,6 +91,9 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:brain -->
+* <a href='https://brain.sunguoqi.com/pages/9de702/' target='_blank'>console.log("Hello World")</a> - 2023-04-09
+* <a href='https://brain.sunguoqi.com/pages/9207e1/' target='_blank'>前端发展简史</a> - 2023-04-09
+* <a href='https://brain.sunguoqi.com/pages/0ef920/' target='_blank'>前端学习路线</a> - 2023-04-02
 <!-- END_SECTION:brain -->
 
 </td></tr>
