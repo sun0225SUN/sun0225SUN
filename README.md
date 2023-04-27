@@ -174,6 +174,42 @@ Mac                      41 hrs 57 mins      ███████████�
 
 <div align="center" >
 
+
+```mermaid
+mindmap
+  root((小孙同学))
+    编程
+      Web开发
+        前端
+        后端
+      网络爬虫
+      人工智能
+        机器学习
+    摄影
+      人文
+      建筑
+      风景
+    旅行
+      苏州
+      南京
+      滁州
+      合肥
+      寿县
+    阅读
+      人物传记
+        乔布斯传
+      个人成长
+        刻意练习
+      社会文化
+        人体简史
+        未来简史
+      心理
+        认知觉醒
+        认知驱动
+        自卑与超越
+        乌合之众
+```
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
