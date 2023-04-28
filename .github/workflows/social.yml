@@ -14,8 +14,7 @@ jobs:
           blog_rss_link: https://blog.sunguoqi.com/rss.xml
           blog_limit: 5 # blog数量
           brain_rss_link: https://brain.sunguoqi.com/rss.xml
-          # 因为这个rss是倒着的
-          brain_limit: -5
+          brain_limit: 5
           douban_name: sunguoqi
           douban_limit: 5 # 豆瓣最新动态数量
           commit_message: Updated social rss by social-readme # commit说明
