@@ -85,17 +85,17 @@
 
 </td></tr>
 
-<tr><td>
+<!-- <tr><td> -->
 
-### 🧠 Second Brain
+<!-- ### 🧠 Second Brain
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> -->
 
 <!-- START_SECTION:brain -->
 
 <!-- END_SECTION:brain -->
 
-</td></tr>
+<!-- </td></tr> -->
 
 <tr><td>
 
