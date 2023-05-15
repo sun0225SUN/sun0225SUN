@@ -92,7 +92,11 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> -->
 
 <!-- START_SECTION:brain -->
-
+* <a href='https://brain.sunguoqi.com/web/' target='_blank'>Guide</a> - 2023-05-14
+* <a href='https://brain.sunguoqi.com/life/programmer/' target='_blank'>Guide</a> - 2023-05-14
+* <a href='https://brain.sunguoqi.com/web/prepare/' target='_blank'>Guide</a> - 2023-05-14
+* <a href='https://brain.sunguoqi.com/ai/' target='_blank'>Guide</a> - 2023-05-14
+* <a href='https://brain.sunguoqi.com/cs/' target='_blank'>Guide</a> - 2023-05-14
 <!-- END_SECTION:brain -->
 
 <!-- </td></tr> -->
