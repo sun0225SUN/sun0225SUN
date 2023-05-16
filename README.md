@@ -92,11 +92,11 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/' target='_blank'>Guide</a> - 2023-05-14
-* <a href='https://brain.sunguoqi.com/life/programmer/' target='_blank'>Guide</a> - 2023-05-14
-* <a href='https://brain.sunguoqi.com/web/prepare/' target='_blank'>Guide</a> - 2023-05-14
-* <a href='https://brain.sunguoqi.com/ai/' target='_blank'>Guide</a> - 2023-05-14
-* <a href='https://brain.sunguoqi.com/cs/' target='_blank'>Guide</a> - 2023-05-14
+* <a href='https://brain.sunguoqi.com/web/front/learn-road.html' target='_blank'>Web前端学习路线</a> - 2020-01-01
+* <a href='https://brain.sunguoqi.com/slides/about.html' target='_blank'>关于我</a> - 2023-05-14
+* <a href='https://brain.sunguoqi.com/web/page.html' target='_blank'>Page Config</a> - 2020-01-01
+* <a href='https://brain.sunguoqi.com/life/programmer/leijun.html' target='_blank'>雷军</a> - 2023-05-14
+* <a href='https://brain.sunguoqi.com/life/programmer/qiubojun.html' target='_blank'>求伯君</a> - 2023-05-14
 <!-- END_SECTION:brain -->
 
 </td></tr>
@@ -108,7 +108,11 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
