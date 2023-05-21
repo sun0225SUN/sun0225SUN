@@ -91,11 +91,11 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/front/learn-road.html' target='_blank'>Web前端学习路线</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/slides/about.html' target='_blank'>关于我</a> - 2023-05-14
-* <a href='https://brain.sunguoqi.com/web/page.html' target='_blank'>Page Config</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/life/programmer/leijun.html' target='_blank'>雷军</a> - 2023-05-14
-* <a href='https://brain.sunguoqi.com/life/programmer/qiubojun.html' target='_blank'>求伯君</a> - 2023-05-14
+* <a href='https://brain.sunguoqi.com/life/coder/anthony-fu.html' target='_blank'>Anthony Fu</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/life/coder/sxzz.html' target='_blank'>三咲智子</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/web/vue/hello/hello-vue.html' target='_blank'>Hello Vue</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/web/vue/hello/list-app.html' target='_blank'>清单小应用</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/web/vue/hello/quick-start.html' target='_blank'>快速上手</a> - 2023-05-20
 <!-- END_SECTION:brain -->
 
 </td></tr>
