@@ -98,7 +98,7 @@
 * <a href='https://brain.sunguoqi.com/life/coder/sxzz.html' target='_blank'>三咲智子</a> - 2023-05-21
 * <a href='https://brain.sunguoqi.com/web/vue/hello/hello-vue.html' target='_blank'>Hello Vue</a> - 2023-05-21
 * <a href='https://brain.sunguoqi.com/web/vue/hello/list-app.html' target='_blank'>清单小应用</a> - 2023-05-21
-* <a href='https://brain.sunguoqi.com/web/vue/hello/quick-start.html' target='_blank'>快速上手</a> - 2023-05-20
+* <a href='https://brain.sunguoqi.com/ai/' target='_blank'>人工智能</a> - 2023-05-20
 <!-- END_SECTION:brain -->
 
 </td></tr>
