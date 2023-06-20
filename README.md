@@ -124,7 +124,7 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
-<a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>&emsp;
+<a href="https://wakatime.com/@sun0225SUN"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" /></a>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -181,7 +181,6 @@ Windows                  4 hrs 17 mins       ███████████�
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-
 
 ```mermaid
 mindmap
