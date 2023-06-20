@@ -124,7 +124,14 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
-<a href="https://wakatime.com/@sun0225SUN"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" /></a>
+<a href="https://wakatime.com/@sun0225SUN"><img src="" /></a>
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=1f2328&hide_border=true&hide_title=true" />
+  </picture>
+
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
