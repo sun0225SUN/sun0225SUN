@@ -94,11 +94,11 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:brain -->
+* <a href='https://brain.sunguoqi.com/web/advanced/vue/learn/componebts/' target='_blank'>test</a> - 2023-06-25
+* <a href='https://brain.sunguoqi.com/web/advanced/vue/learn/essential/test.html' target='_blank'>Hello Vue</a> - 2023-06-25
 * <a href='https://brain.sunguoqi.com/web/base/html/page.html' target='_blank'>WIP</a> - 2020-01-01
 * <a href='https://brain.sunguoqi.com/web/advanced/vue/hello/hello-vue.html' target='_blank'>Hello Vue</a> - 2023-06-20
 * <a href='https://brain.sunguoqi.com/web/advanced/vue/hello/list-app.html' target='_blank'>清单小应用</a> - 2023-06-20
-* <a href='https://brain.sunguoqi.com/web/advanced/vue/hello/quick-start.html' target='_blank'>快速上手</a> - 2023-06-20
-* <a href='https://brain.sunguoqi.com/life/coder/anthony-fu.html' target='_blank'>Anthony Fu</a> - 2023-05-21
 <!-- END_SECTION:brain -->
 
 </td></tr>
