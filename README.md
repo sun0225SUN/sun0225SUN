@@ -59,7 +59,7 @@
 
 - [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
   
-  - 工作岗位：Web前端开发工程师
+  - 工作岗位：Web前端开发工程师（初级）
   - 工作内容：GIS相关
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
