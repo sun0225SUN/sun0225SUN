@@ -272,17 +272,17 @@ jobs:
 #           plugin_skyline_quality: 1
      
       # ⏱️ Google PageSpeed
-      - name: Screenshot
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics/pagespeed.screenshot.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://blog.sunguoqi.com
+#       - name: Screenshot
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: github-metrics/pagespeed.screenshot.svg
+#           token: NOT_NEEDED
+#           base: ""
+#           plugin_pagespeed: yes
+#           plugin_pagespeed_detailed: yes
+#           plugin_pagespeed_screenshot: yes
+#           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+#           plugin_pagespeed_url: https://blog.sunguoqi.com
 
       # 🐤 Latest tweets
       # 需要申请开发者账户
