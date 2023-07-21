@@ -96,11 +96,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/foreword/history.html' target='_blank'>前端开发简史</a> - 2023-07-12
-* <a href='https://brain.sunguoqi.com/web/foreword/learn-road.html' target='_blank'>前端学习路线</a> - 2023-07-12
-* <a href='https://brain.sunguoqi.com/web/html/page.html' target='_blank'>WIP</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/data-visualization/basic/00.html' target='_blank'>WIP</a> - 2023-07-12
-* <a href='https://brain.sunguoqi.com/web/data-visualization/basic/01.html' target='_blank'>WIP</a> - 2023-07-12
+* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-07-21
+* <a href='https://brain.sunguoqi.com/dv/basic/test.html' target='_blank'>前言</a> - 2023-07-21
+* <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-07-21
+* <a href='https://brain.sunguoqi.com/web/css/test.html' target='_blank'>前端学习路线</a> - 2023-07-21
+* <a href='https://brain.sunguoqi.com/slides/' target='_blank'>目录</a> - 2023-07-21
 <!-- END_SECTION:brain -->
 
 </td></tr>
