@@ -96,11 +96,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-07-21
-* <a href='https://brain.sunguoqi.com/dv/basic/test.html' target='_blank'>前言</a> - 2023-07-21
-* <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-07-21
-* <a href='https://brain.sunguoqi.com/web/css/test.html' target='_blank'>前端学习路线</a> - 2023-07-21
-* <a href='https://brain.sunguoqi.com/slides/' target='_blank'>目录</a> - 2023-07-21
+* <a href='https://brain.sunguoqi.com/dv/basic/00.html' target='_blank'>可视化工程师</a> - 2023-07-26
+* <a href='https://brain.sunguoqi.com/dv/basic/09.html' target='_blank'>用仿射变换操作几何图形</a> - 2023-07-26
+* <a href='https://brain.sunguoqi.com/dv/basic/10.html' target='_blank'>图形系统如何表示颜色</a> - 2023-07-26
+* <a href='https://brain.sunguoqi.com/dv/basic/11.html' target='_blank'>如何生成重复、分形图案</a> - 2023-07-26
+* <a href='https://brain.sunguoqi.com/dv/basic/12.html' target='_blank'>使用滤镜函数实现美颜效果</a> - 2023-07-26
 <!-- END_SECTION:brain -->
 
 </td></tr>
