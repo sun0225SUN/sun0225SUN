@@ -96,8 +96,8 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/guide/history.html' target='_blank'>前端开发简史</a> - 2023-07-26
-* <a href='https://brain.sunguoqi.com/web/guide/learn-road.html' target='_blank'>前端学习路线</a> - 2023-07-26
+* <a href='https://brain.sunguoqi.com/web/guide/history.html' target='_blank'>前端开发简史</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/web/guide/learn-road.html' target='_blank'>前端学习路线</a> - 2023-03-26
 * <a href='https://brain.sunguoqi.com/dv/basic/data/31.html' target='_blank'>选择合适方法对数据进行处理</a> - 2023-07-27
 * <a href='https://brain.sunguoqi.com/dv/basic/data/32.html' target='_blank'>可视化数据处理的一般方法</a> - 2023-07-27
 * <a href='https://brain.sunguoqi.com/dv/basic/data/33.html' target='_blank'>如何处理多元变量</a> - 2023-07-27
@@ -112,7 +112,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
