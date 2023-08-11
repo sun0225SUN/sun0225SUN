@@ -96,11 +96,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/dv/cesium/data/3dtiles.html' target='_blank'>3D Tiles</a> - 2023-08-07
-* <a href='https://brain.sunguoqi.com/dv/antv/g2plot/test.html' target='_blank'>G2学习指南</a> - 2023-08-07
-* <a href='https://brain.sunguoqi.com/dv/antv/guide/test.html' target='_blank'>3D Tiles 模型高度调整</a> - 2023-08-07
-* <a href='https://brain.sunguoqi.com/dv/antv/l7plot/test.html' target='_blank'>L7学习指南</a> - 2023-08-07
-* <a href='https://brain.sunguoqi.com/dv/cesium/3D/3d_tiles_00.html' target='_blank'>3D Tiles 模型高度调整</a> - 2023-08-07
+* <a href='https://brain.sunguoqi.com/life/coder/antfu.html' target='_blank'>AntFu</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/life/coder/leijun.html' target='_blank'>雷军</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/life/coder/me.html' target='_blank'>我</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/life/coder/qiubojun.html' target='_blank'>求伯君</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/life/coder/yihong.html' target='_blank'>伊洪</a> - 2023-03-25
 <!-- END_SECTION:brain -->
 
 </td></tr>
