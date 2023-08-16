@@ -96,11 +96,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/life/coder/antfu.html' target='_blank'>AntFu</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/life/coder/leijun.html' target='_blank'>雷军</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/life/coder/me.html' target='_blank'>我</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/life/coder/qiubojun.html' target='_blank'>求伯君</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/life/coder/yihong.html' target='_blank'>伊洪</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/web/js/chapter01/page.html' target='_blank'>W</a> - 2020-01-01
+* <a href='https://brain.sunguoqi.com/web/js/chapter02/page.html' target='_blank'>WIP</a> - 2020-01-01
+* <a href='https://brain.sunguoqi.com/web/js/chapter03/page.html' target='_blank'>WIP</a> - 2020-01-01
+* <a href='https://brain.sunguoqi.com/web/js/chapter04/page.html' target='_blank'>WIP</a> - 2020-01-01
+* <a href='https://brain.sunguoqi.com/web/js/chapter05/page.html' target='_blank'>WIP</a> - 2020-01-01
 <!-- END_SECTION:brain -->
 
 </td></tr>
