@@ -96,11 +96,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/js/chapter01/page.html' target='_blank'>W</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/js/chapter02/page.html' target='_blank'>WIP</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/js/chapter03/page.html' target='_blank'>WIP</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/js/chapter04/page.html' target='_blank'>WIP</a> - 2020-01-01
-* <a href='https://brain.sunguoqi.com/web/js/chapter05/page.html' target='_blank'>WIP</a> - 2020-01-01
+* <a href='https://brain.sunguoqi.com/web/html/html.html' target='_blank'>HTML</a> - 2023-08-20
+* <a href='https://brain.sunguoqi.com/web/html/markdown.html' target='_blank'>Markdown</a> - 2023-08-20
+* <a href='https://brain.sunguoqi.com/web/html/markdown2html5.html' target='_blank'>Markdown To HTML</a> - 2023-08-20
+* <a href='https://brain.sunguoqi.com/web/js/the_definitive_guide/ch1.html' target='_blank'>JavaScript 简介</a> - 2023-08-20
+* <a href='https://brain.sunguoqi.com/web/js/the_definitive_guide/ch10.html' target='_blank'>模块</a> - 2023-08-20
 <!-- END_SECTION:brain -->
 
 </td></tr>
