@@ -96,11 +96,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/html/html.html' target='_blank'>HTML</a> - 2023-08-20
-* <a href='https://brain.sunguoqi.com/web/html/markdown.html' target='_blank'>Markdown</a> - 2023-08-20
-* <a href='https://brain.sunguoqi.com/web/html/markdown2html5.html' target='_blank'>Markdown To HTML</a> - 2023-08-20
-* <a href='https://brain.sunguoqi.com/web/js/the_definitive_guide/ch1.html' target='_blank'>JavaScript 简介</a> - 2023-08-20
-* <a href='https://brain.sunguoqi.com/web/js/the_definitive_guide/ch10.html' target='_blank'>模块</a> - 2023-08-20
+* <a href='https://brain.sunguoqi.com/web/backend/todo/' target='_blank'>ToDo</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/es6/test.html' target='_blank'>My Note</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/foreword/about.html' target='_blank'>我与前端开发</a> - 2023-07-27
+* <a href='https://brain.sunguoqi.com/web/frontend/guide/history.html' target='_blank'>前端开发简史</a> - 2023-03-25
+* <a href='https://brain.sunguoqi.com/web/frontend/guide/learn-road.html' target='_blank'>前端学习路线</a> - 2023-03-26
 <!-- END_SECTION:brain -->
 
 </td></tr>
@@ -113,7 +113,10 @@
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
