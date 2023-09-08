@@ -96,11 +96,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/web/backend/todo/' target='_blank'>ToDo</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/es6/test.html' target='_blank'>My Note</a> - 2023-09-07
-* <a href='https://brain.sunguoqi.com/web/frontend/foreword/about.html' target='_blank'>我与前端开发</a> - 2023-07-27
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/history.html' target='_blank'>前端开发简史</a> - 2023-03-25
-* <a href='https://brain.sunguoqi.com/web/frontend/guide/learn-road.html' target='_blank'>前端学习路线</a> - 2023-03-26
+* <a href='https://brain.sunguoqi.com/web/frontend/css/css-in-depth/test.html' target='_blank'>My Note</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/css/css-world/test.html' target='_blank'>My Note</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/js/my-notes/test.html' target='_blank'>My Note</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/js/professional-javascript/ch1.html' target='_blank'>JavaScript 简介</a> - 2023-08-20
+* <a href='https://brain.sunguoqi.com/web/frontend/js/professional-javascript/ch10.html' target='_blank'>模块</a> - 2023-08-20
 <!-- END_SECTION:brain -->
 
 </td></tr>
