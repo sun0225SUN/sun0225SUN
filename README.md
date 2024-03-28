@@ -41,7 +41,7 @@
 
 #  🙋 Hello
 
-<table align="center">
+<table>
   
 <tr><td>
 
