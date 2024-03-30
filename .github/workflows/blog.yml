@@ -1,0 +1,19 @@
+name: Recent Blog
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-readme-feed
+    steps:
+      - uses: actions/checkout@v4
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: "https://blog.guoqi.dev/rss.xml"
+          file: "README.md"
+      - uses: sarisia/actions-commit@master
