@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: sun0225SUN/Social-Readme@main
         with:
-          blog_rss_link: https://blog.sunguoqi.com/rss.xml
+          blog_rss_link: https://blog.sunguoqi.com/atom.xml
           blog_limit: 5 # blog数量
           brain_rss_link: https://brain.sunguoqi.com/rss.xml
           brain_limit: 5
