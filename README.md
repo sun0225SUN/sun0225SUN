@@ -19,7 +19,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-fc8f9b" /></a>&emsp;
+    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-272053" /></a>&emsp;
     <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-0063b2" /></a>&emsp;
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
