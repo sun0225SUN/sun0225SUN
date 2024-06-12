@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#8 Add 360tg</span>
+                                        <span class="issue">#9 feat: add 618</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">yuanze-dev/tcq-web</span></div>
-                                    <div>5 files changed <span class="code">++32 --20</span></div>
+                                    <div>1 file changed <span class="code">++12 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#8 Add 360tg</span>
+                                        <span class="issue">#9 feat: add 618</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">yuanze-dev/tcq-web</span></div>
-                                    <div>5 files changed <span class="code">++32 --20</span></div>
+                                    <div>1 file changed <span class="code">++12 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">add-360tg</span>
+                                        <span class="code">feat-618</span>
                                         in
                                         <span class="repo">yuanze-dev/tcq-web</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#7 feat: add 360tg</span>
+                                        <span class="issue">#8 Add 360tg</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">yuanze-dev/tcq-web</span></div>
-                                    <div>5 files changed <span class="code">++18 --20</span></div>
+                                    <div>5 files changed <span class="code">++32 --20</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#7 feat: add 360tg</span>
+                                        <span class="issue">#8 Add 360tg</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">yuanze-dev/tcq-web</span></div>
-                                    <div>5 files changed <span class="code">++18 --20</span></div>
+                                    <div>5 files changed <span class="code">++32 --20</span></div>
                                 </div>
                             </section>
                         </div>
