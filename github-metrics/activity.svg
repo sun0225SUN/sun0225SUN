@@ -24,41 +24,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">apple-store</span>
+                                        <span class="code">global-apple-store</span>
                                         in
                                         <span class="repo">yuanze-dev/baigua-tcq</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">more-login</span>
-                                        in
-                                        <span class="repo">yuanze-dev/tcq-web</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">test-more-login</span>
-                                        in
-                                        <span class="repo">yuanze-dev/tcq-desktop</span>
                                     </div>
                                 </div>
                             </section>
@@ -71,12 +39,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#85 fix: fix muban update</span>
+                                        <span class="issue">#90 Muban update fix</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">yuanze-dev/hyperion-central</span></div>
-                                    <div>3 files changed <span class="code">++63 --30</span></div>
+                                    <div>1 file changed <span class="code">++7 --11</span></div>
                                 </div>
                             </section>
                         </div>
@@ -88,12 +56,44 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#85 fix: fix muban update</span>
+                                        <span class="issue">#90 Muban update fix</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">yuanze-dev/hyperion-central</span></div>
-                                    <div>2 files changed <span class="code">++46 --17</span></div>
+                                    <div>1 file changed <span class="code">++7 --12</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">muban-update-fix</span>
+                                        in
+                                        <span class="repo">yuanze-dev/hyperion-central</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">apple-store</span>
+                                        in
+                                        <span class="repo">yuanze-dev/baigua-tcq</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
