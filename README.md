@@ -197,9 +197,9 @@ Mac                      16 hrs 22 mins      ███████████�
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
+<!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp; -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+<!-- &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
