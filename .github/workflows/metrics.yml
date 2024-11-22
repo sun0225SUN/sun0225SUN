@@ -7,7 +7,7 @@ on:
     - cron: "0 0 * * *"
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
-  
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -38,7 +38,7 @@ jobs:
           # plugin_starlists_languages: yes
           # plugin_starlists_limit_languages: 8
           # plugin_starlists_only: Awesome
-          
+
       # 📅 Isometric commit calendar
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
@@ -68,7 +68,7 @@ jobs:
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
 
-      # ✨ Stargazers   
+      # ✨ Stargazers
       - name: Using chartist charts
         uses: lowlighter/metrics@latest
         with:
@@ -87,7 +87,7 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 10
-          
+
       # 💡 Coding habits and activity
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
@@ -99,8 +99,8 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Europe/Paris
-          
-      # 🎟️ Follow-up of issues and pull requests 
+
+      # 🎟️ Follow-up of issues and pull requests
       - name: Indepth analysis
         uses: lowlighter/metrics@latest
         with:
@@ -109,7 +109,7 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
-          
+
       # 🎭 Comment reactions
       - name: Comment reactions
         uses: lowlighter/metrics@latest
@@ -121,7 +121,7 @@ jobs:
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
-      # 🧑‍🤝‍🧑 People    
+      # 🧑‍🤝‍🧑 People
       - name: Followers
         uses: lowlighter/metrics@latest
         with:
@@ -132,7 +132,7 @@ jobs:
           plugin_people_limit: 300
           plugin_people_size: 36
           plugin_people_types: followers, following
-          
+
       # 📓 Featured repositories
       - name: Pinned repositories
         uses: lowlighter/metrics@latest
@@ -151,8 +151,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_discussions: yes
-          plugin_discussions_categories_limit: 8       
-   
+          plugin_discussions_categories_limit: 8
+
       # 📆 Commit calendar
       - name: Full history calendar
         uses: lowlighter/metrics@latest
@@ -188,7 +188,7 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-   
+
       # 🗨️ Stack Overflow
       - name: Top answers from stackoverflow
         uses: lowlighter/metrics@latest
