@@ -1,4 +1,4 @@
-name: Blog
+name: Recent Blog
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: generate-readme-feed
     steps:
       - uses: actions/checkout@v4
       - uses: sarisia/actions-readme-feed@v1
