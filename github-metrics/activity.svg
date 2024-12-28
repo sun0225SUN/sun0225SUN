@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#3 feat: restructure data storage and access logic</span>
+                                        <span class="issue">#4 complete two tools</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/create-wise</span></div>
-                                    <div>19 files changed <span class="code">++467 --498</span></div>
+                                    <div>33 files changed <span class="code">++1546 --44</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#3 feat: restructure data storage and access logic</span>
+                                        <span class="issue">#4 complete two tools</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/create-wise</span></div>
-                                    <div>19 files changed <span class="code">++467 --498</span></div>
+                                    <div>33 files changed <span class="code">++1546 --44</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">new-dev</span>
+                                        <span class="code">dev</span>
                                         in
                                         <span class="repo">sun0225SUN/create-wise</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#2 Subtitle timeline function development and optimization</span>
+                                        <span class="issue">#3 feat: restructure data storage and access logic</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/create-wise</span></div>
-                                    <div>18 files changed <span class="code">++620 --1043</span></div>
+                                    <div>19 files changed <span class="code">++467 --498</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#2 Subtitle timeline function development and optimization</span>
+                                        <span class="issue">#3 feat: restructure data storage and access logic</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/create-wise</span></div>
-                                    <div>18 files changed <span class="code">++620 --1043</span></div>
+                                    <div>19 files changed <span class="code">++467 --498</span></div>
                                 </div>
                             </section>
                         </div>
