@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#2 feat: upgrade dependent package versions and optimize project structure</span>
+                                        <span class="issue">#11 MarsCode ShenZhen Hackthon </span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">sun0225SUN/camlife</span></div>
-                                    <div>18 files changed <span class="code">++3054 --3424</span></div>
+                                    <div> in <span class="repo">sun0225SUN/createwise</span></div>
+                                    <div>14 files changed <span class="code">++1335 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#2 feat: upgrade dependent package versions and optimize project structure</span>
+                                        <span class="issue">#11 MarsCode ShenZhen Hackthon </span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">sun0225SUN/camlife</span></div>
-                                    <div>18 files changed <span class="code">++3054 --3424</span></div>
+                                    <div> in <span class="repo">sun0225SUN/createwise</span></div>
+                                    <div>14 files changed <span class="code">++1335 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,9 +58,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">dev</span>
+                                        <span class="code">hackthon</span>
                                         in
-                                        <span class="repo">sun0225SUN/camlife</span>
+                                        <span class="repo">sun0225SUN/createwise</span>
                                     </div>
                                 </div>
                             </section>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#10 fix: fix /docs rewrites bug</span>
+                                        <span class="issue">#2 feat: upgrade dependent package versions and optimize project structure</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">sun0225SUN/createwise</span></div>
-                                    <div>2 files changed <span class="code">++5 --1</span></div>
+                                    <div> in <span class="repo">sun0225SUN/camlife</span></div>
+                                    <div>18 files changed <span class="code">++3054 --3424</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#10 fix: fix /docs rewrites bug</span>
+                                        <span class="issue">#2 feat: upgrade dependent package versions and optimize project structure</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">sun0225SUN/createwise</span></div>
-                                    <div>2 files changed <span class="code">++5 --1</span></div>
+                                    <div> in <span class="repo">sun0225SUN/camlife</span></div>
+                                    <div>18 files changed <span class="code">++3054 --3424</span></div>
                                 </div>
                             </section>
                         </div>
