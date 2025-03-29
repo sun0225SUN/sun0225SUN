@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#21 Dev</span>
+                                        <span class="issue">#22 Dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/createwise</span></div>
-                                    <div>17 files changed <span class="code">++285 --103</span></div>
+                                    <div>36 files changed <span class="code">++1271 --171</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#21 Dev</span>
+                                        <span class="issue">#22 Dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/createwise</span></div>
-                                    <div>17 files changed <span class="code">++285 --103</span></div>
+                                    <div>36 files changed <span class="code">++1271 --171</span></div>
                                 </div>
                             </section>
                         </div>
@@ -58,7 +58,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">dev</span>
+                                        <span class="code">feat-retry</span>
                                         in
                                         <span class="repo">sun0225SUN/createwise</span>
                                     </div>
@@ -73,12 +73,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#20 Dev</span>
+                                        <span class="issue">#21 Dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/createwise</span></div>
-                                    <div>39 files changed <span class="code">++1134 --972</span></div>
+                                    <div>17 files changed <span class="code">++285 --103</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,12 +90,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#20 Dev</span>
+                                        <span class="issue">#21 Dev</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/createwise</span></div>
-                                    <div>39 files changed <span class="code">++1134 --972</span></div>
+                                    <div>17 files changed <span class="code">++285 --103</span></div>
                                 </div>
                             </section>
                         </div>
