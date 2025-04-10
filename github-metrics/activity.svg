@@ -24,7 +24,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">feat-stripe</span>
+                                        <span class="code">dev</span>
                                         in
                                         <span class="repo">sun0225SUN/createwise</span>
                                     </div>
@@ -39,12 +39,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#25 Dev</span>
+                                        <span class="issue">#26 feat: integrate axiom log monitoring</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/createwise</span></div>
-                                    <div>26 files changed <span class="code">++351 --523</span></div>
+                                    <div>8 files changed <span class="code">++57 --7</span></div>
                                 </div>
                             </section>
                         </div>
@@ -56,12 +56,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#25 Dev</span>
+                                        <span class="issue">#26 feat: integrate axiom log monitoring</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">sun0225SUN/createwise</span></div>
-                                    <div>26 files changed <span class="code">++351 --523</span></div>
+                                    <div>8 files changed <span class="code">++57 --7</span></div>
                                 </div>
                             </section>
                         </div>
@@ -90,7 +90,7 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">feat-i18n-seo</span>
+                                        <span class="code">dev-back</span>
                                         in
                                         <span class="repo">sun0225SUN/createwise</span>
                                     </div>
