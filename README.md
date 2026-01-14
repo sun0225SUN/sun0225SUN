@@ -134,19 +134,17 @@ Sunday                   324 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 56 mins        ███████████████████████░░   90.63 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   2 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/01/2026 00:43:49 UTC
+ Last Updated on 14/01/2026 00:51:12 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
