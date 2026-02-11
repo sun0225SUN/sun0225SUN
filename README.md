@@ -134,18 +134,17 @@ Sunday                   325 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     3 mins              ███████████████████░░░░░░   77.95 % 
-Other                    0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/02/2026 01:10:50 UTC
+ Last Updated on 11/02/2026 01:09:00 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
