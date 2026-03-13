@@ -35,7 +35,7 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
 </a>
 
-<table style="margin-top: 20px;">
+<!-- <table style="margin-top: 20px;">
   <tbody>
     <tr>
       <td align="center">
@@ -46,7 +46,7 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 </div>
 </div>
 
