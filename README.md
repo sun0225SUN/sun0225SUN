@@ -107,8 +107,50 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 17/07/2026 01:20:16 UTC
+```text
+🌞 Morning                455 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+🌆 Daytime                640 commits         ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+🌃 Evening                569 commits         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+🌙 Night                  606 commits         ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Wednesday                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Thursday                 302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Friday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sunday                   334 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               24 hrs 23 mins      █████████████████░░░░░░░░   69.97 % 
+JSON                     6 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Markdown                 1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Other                    1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+TSConfig                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+
+🔥 Editors: 
+VS Code                  25 hrs 28 mins      ██████████████████░░░░░░░   73.10 % 
+Codex CLI                8 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Claude Code              40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+
+💻 Operating System: 
+Mac                      34 hrs 51 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/07/2026 01:12:26 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
