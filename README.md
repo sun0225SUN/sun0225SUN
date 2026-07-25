@@ -134,22 +134,22 @@ Sunday                   334 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               16 hrs 53 mins      █████████████████░░░░░░░░   67.68 % 
-JSON                     6 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript               11 hrs 27 mins      ██████████████░░░░░░░░░░░   55.42 % 
+JSON                     7 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.53 % 
+CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 48 mins      █████████████████████░░░░   83.42 % 
-Codex CLI                4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+VS Code                  19 hrs 14 mins      ███████████████████████░░   93.08 % 
+Codex CLI                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 💻 Operating System: 
-Mac                      24 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 01:19:42 UTC
+ Last Updated on 25/07/2026 01:20:39 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
