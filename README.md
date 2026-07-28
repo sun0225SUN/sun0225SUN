@@ -107,6 +107,8 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2046%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -134,22 +136,27 @@ Sunday                   334 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 27 mins      ██████████████░░░░░░░░░░░   55.42 % 
-JSON                     7 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.53 % 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+JSON                     10 hrs 15 mins      ████████████░░░░░░░░░░░░░   47.03 % 
+TypeScript               10 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.76 % 
+JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 14 mins      ███████████████████████░░   93.08 % 
-Codex CLI                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+VS Code                  21 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 47 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/07/2026 01:27:30 UTC
+ Last Updated on 28/07/2026 01:15:27 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
