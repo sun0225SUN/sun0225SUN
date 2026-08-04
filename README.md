@@ -136,27 +136,27 @@ Sunday                   334 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   38.76 % 
-JSON                     11 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   35.43 % 
-Bash                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JavaScript               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+TypeScript               13 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.80 % 
+JSON                     12 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   34.38 % 
+Bash                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+JavaScript               2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Other                    1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 46 mins      ████████████████████████░   96.88 % 
-Grok Build               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+VS Code                  34 hrs 21 mins      ████████████████████████░   97.02 % 
+Grok Build               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      33 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (8.28%)
+⏱ AI Coding Time: 2 hrs 48 mins (7.91%)
 
-✍️ 1,109 lines written by AI, 3,881 lines written by hand (22.22% AI-written)
+✍️ 1,109 lines written by AI, 3,668 lines written by hand (23.22% AI-written)
 
 🔤 42,898,801 Input Tokens, 106,537 Output Tokens
 
@@ -168,14 +168,14 @@ Grok                     1,309 lines         ███████████�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.22% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 23.22% of written lines came from AI
 📝 Concise Prompter — average 47 characters per prompt
 🔁 Iterative Prompter — average 59 prompts per session
-🔍 Hands-On Reviewer — 85.97% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.65% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 01:23:30 UTC
+ Last Updated on 04/08/2026 01:14:33 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
