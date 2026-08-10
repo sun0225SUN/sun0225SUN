@@ -136,28 +136,28 @@ Sunday                   334 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     7 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
-TypeScript               5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Other                    3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Rust                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-JavaScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+JSON                     7 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
+TypeScript               5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Other                    3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Rust                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JavaScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 19 mins      ██████████████████░░░░░░░   73.63 % 
-Codex CLI                4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Grok Build               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Zed                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+VS Code                  16 hrs 45 mins      ██████████████████░░░░░░░   71.85 % 
+Codex CLI                4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Grok Build               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Zed                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Mac                      24 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 14 mins (33.13%)
+⏱ AI Coding Time: 8 hrs 14 mins (35.37%)
 
-✍️ 8,223 lines written by AI, 2,988 lines written by hand (73.35% AI-written)
+✍️ 8,223 lines written by AI, 2,406 lines written by hand (77.36% AI-written)
 
 🔤 51,744,805 Input Tokens, 314,722 Output Tokens
 
@@ -169,14 +169,14 @@ Grok                     5,339 lines         ███████████�
 GPT                      3,285 lines         ██████████░░░░░░░░░░░░░░░   38.09 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.35% of written lines came from AI
+🤖 AI-Driven — 77.36% of written lines came from AI
 📝 Concise Prompter — average 171 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 29.31% of changed lines were hand-edited
+🚀 High AI Trust — 25.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 00:41:39 UTC
+ Last Updated on 10/08/2026 00:43:35 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
