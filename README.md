@@ -107,7 +107,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%208%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -136,23 +136,50 @@ Sunday                   334 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 19 mins       ████████████████░░░░░░░░░   62.27 % 
+CSS                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+JSON                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Go                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                6 hrs 2 mins        ██████████████████░░░░░░░   70.65 % 
+VS Code                  1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Agent                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Grok Build               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Cursor                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 hrs 27 mins (99.02%)
+
+✍️ 1,924 lines written by AI, 5 lines written by hand (99.74% AI-written)
+
+🔤 13,413,030 Input Tokens, 491,154 Output Tokens
+
+💵 $218.67 Estimated AI Cost This Week
+
+🧠 41 AI Sessions, 119 AI Prompts
+
+GPT                      1,155 lines         ██████████████░░░░░░░░░░░   55.82 % 
+Codex-Cli                914 lines           ███████████░░░░░░░░░░░░░░   44.18 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.74% of written lines came from AI
+📚 Verbose Prompter — average 5,525 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 01:38:39 UTC
+ Last Updated on 12/09/2026 01:44:56 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
