@@ -136,45 +136,44 @@ Sunday                   334 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 17 mins        █████████████░░░░░░░░░░░░   51.97 % 
-Go                       25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-SQL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+TypeScript               29 mins             ███████████░░░░░░░░░░░░░░   45.40 % 
+SQL                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+Go                       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 58 mins        ████████████████████░░░░░   78.87 % 
-VS Code                  31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Codex CLI                43 mins             █████████████████░░░░░░░░   66.98 % 
+VS Code                  21 mins             ████████░░░░░░░░░░░░░░░░░   33.02 % 
 
 💻 Operating System: 
-Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 24 mins (96.64%)
+⏱ AI Coding Time: 1 hr (92.35%)
 
-✍️ 237 lines written by AI, 5 lines written by hand (97.93% AI-written)
+✍️ 49 lines written by AI, 5 lines written by hand (90.74% AI-written)
 
-🔤 3,213,399 Input Tokens, 128,696 Output Tokens
+🔤 667,786 Input Tokens, 14,512 Output Tokens
 
-💵 $46.72 Estimated AI Cost This Week
+💵 $9.51 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 31 AI Prompts
+🧠 2 AI Sessions, 16 AI Prompts
 
-GPT                      246 lines           ██████████████████████░░░   87.54 % 
-Codex-Cli                35 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+GPT                      52 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.93% of written lines came from AI
-📄 Detailed Prompter — average 681 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.43% of changed lines were hand-edited
+🤖 AI-Driven — 90.74% of written lines came from AI
+📝 Concise Prompter — average 101 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 11.86% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 01:57:53 UTC
+ Last Updated on 18/09/2026 01:44:52 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
