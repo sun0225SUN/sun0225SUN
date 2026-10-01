@@ -136,45 +136,41 @@ Sunday                   334 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 7 mins        ████████████████████████░   95.66 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Other                    36 mins             ██████████████████░░░░░░░   72.61 % 
+JavaScript               13 mins             ███████░░░░░░░░░░░░░░░░░░   27.39 % 
 
 🔥 Editors: 
-Grok Build               4 hrs 56 mins       ███████████████████████░░   92.48 % 
-Agent                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Cursor                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Grok Build               45 mins             ███████████████████████░░   90.04 % 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 
 💻 Operating System: 
-Mac                      5 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 21 mins (100.0%)
+⏱ AI Coding Time: 50 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 140,948,373 Input Tokens, 1,110,139 Output Tokens
+🔤 20,195,524 Input Tokens, 191,631 Output Tokens
 
-💵 $288.56 Estimated AI Cost This Week
+💵 $41.54 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 92 AI Prompts
+🧠 12 AI Sessions, 16 AI Prompts
 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 18,255 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 351 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 02:36:48 UTC
+ Last Updated on 01/10/2026 02:39:44 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
