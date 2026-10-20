@@ -107,7 +107,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-100%20hrs%2015%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -136,23 +136,46 @@ Sunday                   334 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    8 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.88 % 
+TypeScript               6 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.32 % 
+CSS                      2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Agent                    8 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.75 % 
+Grok Build               8 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.21 % 
+VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Cursor                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 17 hrs 39 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 541,429,515 Input Tokens, 2,408,189 Output Tokens
+
+💵 $1097.31 Estimated AI Cost This Week
+
+🧠 43 AI Sessions, 162 AI Prompts
+
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 620 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 02:00:56 UTC
+ Last Updated on 20/10/2026 02:18:20 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
