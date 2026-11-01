@@ -136,47 +136,45 @@ Sunday                   335 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   41.09 % 
-TypeScript               11 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-JSON                     4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Markdown                 3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-CSS                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+TypeScript               11 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   38.16 % 
+Other                    9 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+JSON                     3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Markdown                 2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+CSS                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
-Zed                      30 hrs 51 mins      ███████████████████░░░░░░   75.76 % 
-VS Code                  7 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Cursor                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Grok Build               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Zed                      29 hrs 26 mins      ████████████████████████░   94.48 % 
+Cursor                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 💻 Operating System: 
-Mac                      40 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 25 mins (91.88%)
+⏱ AI Coding Time: 27 hrs 51 mins (89.38%)
 
-✍️ 3,993 lines written by AI, 41 lines written by hand (98.98% AI-written)
+✍️ 2,826 lines written by AI, 41 lines written by hand (98.57% AI-written)
 
-🔤 767,136,937 Input Tokens, 3,204,263 Output Tokens
+🔤 571,413,589 Input Tokens, 2,459,511 Output Tokens
 
-💵 $1629.27 Estimated AI Cost This Week
+💵 $1219.29 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 533 AI Prompts
+🧠 62 AI Sessions, 384 AI Prompts
 
-GPT                      5,338 lines         █████████████████████████   100.00 % 
+GPT                      4,168 lines         █████████████████████████   100.00 % 
 Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📚 Verbose Prompter — average 2,224 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.81% of changed lines were hand-edited
+🤖 AI-Driven — 98.57% of written lines came from AI
+📚 Verbose Prompter — average 3,054 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/10/2026 02:55:06 UTC
+ Last Updated on 01/11/2026 02:47:34 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
